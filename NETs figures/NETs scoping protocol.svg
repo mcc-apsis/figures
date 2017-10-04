@@ -11,16 +11,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="404.66635mm"
-   height="248.06235mm"
-   viewBox="0 0 1433.8572 878.96108"
+   width="391.56143mm"
+   height="232.8551mm"
+   viewBox="0 0 1387.4224 825.07714"
    id="svg4813"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="NETs scoping procedure.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\NETs\NETs scoping protocol.png"
-   inkscape:export-xdpi="300.01331"
-   inkscape:export-ydpi="300.01331">
+   sodipodi:docname="NETs scoping protocol.svg"
+   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs figures\NETs scoping protocol.png"
+   inkscape:export-xdpi="399.99896"
+   inkscape:export-ydpi="399.99896">
   <defs
      id="defs4815">
     <marker
@@ -1754,13 +1754,13 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67265674"
-     inkscape:cx="-2.7588928"
-     inkscape:cy="371.87057"
+     inkscape:cx="724.84141"
+     inkscape:cy="361.87355"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1775,35 +1775,35 @@
      inkscape:snap-grids="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="2.887253e-012,120.71368"
+       position="-16.887464,90.425705"
        orientation="0,1182.4285"
        id="guide10769" />
     <sodipodi:guide
-       position="1182.4287,120.71368"
+       position="1165.5412,90.425705"
        orientation="-676.71429,0"
        id="guide10771" />
     <sodipodi:guide
-       position="2.887253e-012,797.42799"
+       position="-16.887464,767.13999"
        orientation="0,-1182.4285"
        id="guide10773" />
     <sodipodi:guide
-       position="2.887253e-012,797.42799"
+       position="-16.887464,767.13999"
        orientation="676.71429,0"
        id="guide10775" />
     <sodipodi:guide
-       position="291.42857,340.71368"
+       position="274.54111,310.4257"
        orientation="0,1"
        id="guide10777" />
     <sodipodi:guide
-       position="782.85715,482.14226"
+       position="765.96969,451.85427"
        orientation="1,0"
        id="guide10781" />
     <sodipodi:guide
-       position="377.14286,622.14228"
+       position="360.2554,591.85429"
        orientation="1,0"
        id="guide10783" />
     <sodipodi:guide
-       position="212.85715,579.28512"
+       position="195.96969,548.99713"
        orientation="0,1"
        id="guide10785" />
   </sodipodi:namedview>
@@ -1815,7 +1815,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1823,17 +1823,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="base"
-     transform="translate(0,81.53306)">
-    <rect
-       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25502431;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect6179"
-       width="1432.6022"
-       height="877.70605"
-       x="0.62751216"
-       y="-80.905548"
-       ry="0"
-       inkscape:export-xdpi="400.022"
-       inkscape:export-ydpi="400.022" />
+     transform="translate(-16.887464,57.937078)">
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker24111)"
        d="m 36.945152,99.372208 0,50.458322"
@@ -1860,7 +1850,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.92857146,66.813713)">
+     transform="translate(-17.816035,43.217731)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2026,14 +2016,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="771.43329"
+       x="770.48602"
        y="527.04681"
        id="text17271-5"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan17273-2"
-         x="771.43329"
-         y="527.04681">xxx documents</tspan></text>
+         id="tspan5354"
+         x="770.48602"
+         y="527.04681">863 documents</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
