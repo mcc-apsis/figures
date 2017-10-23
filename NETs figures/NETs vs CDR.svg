@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="324.31363mm"
-   height="131.59619mm"
-   viewBox="0 0 1149.1428 466.28572"
+   width="310.00604mm"
+   height="125.22327mm"
+   viewBox="0 0 1098.4466 443.70449"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -257,9 +257,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="499.6112"
-     inkscape:cy="65.643283"
+     inkscape:zoom="0.7"
+     inkscape:cx="314.78234"
+     inkscape:cy="291.3446"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -280,7 +280,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -288,7 +288,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(259.64285,17.137804)">
+     transform="translate(237.07251,11.190871)">
     <image
        y="512.25421"
        x="-107.60658"
@@ -325,28 +325,22 @@
        id="text6160-4"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         id="tspan11071">Emissions in</tspan><tspan
+         id="tspan4560">Release of</tspan><tspan
          sodipodi:role="line"
-         id="tspan11073">chimneys</tspan></text>
+         id="tspan4562">CO₂ emissions</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="719.80426"
        y="113.91362"
        id="text6160-4-3-1-1"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         id="tspan6524"
-         x="719.80426"
-         y="113.91362">Impact of climate</tspan><tspan
+         id="tspan4564">Impact of climate</tspan><tspan
          sodipodi:role="line"
-         id="tspan6526"
-         x="722.88043"
-         y="133.16362">on human and </tspan><tspan
+         id="tspan4566">on human &amp; </tspan><tspan
          sodipodi:role="line"
-         id="tspan6528"
-         x="719.80426"
-         y="152.41362">natural systems</tspan></text>
+         id="tspan4568">natural systems</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -377,26 +371,32 @@
        id="text6160-5"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         id="tspan10986"
+         id="tspan4544"
          x="-160.60674"
-         y="66.151543">Climate change</tspan><tspan
+         y="66.151543">Climate change:</tspan><tspan
          sodipodi:role="line"
-         id="tspan10988"
+         id="tspan4546"
          x="-160.60674"
          y="85.401543">cause to effect</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="7.2114744"
        y="314.02542"
        id="text6530"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         id="tspan11079">Decarbonise &amp;</tspan><tspan
+         id="tspan11079"
+         x="7.2114744"
+         y="314.02542">Decarbonise &amp;</tspan><tspan
          sodipodi:role="line"
-         id="tspan11081">reduce energy</tspan><tspan
+         id="tspan11081"
+         x="7.2114744"
+         y="333.27542">reduce energy</tspan><tspan
          sodipodi:role="line"
-         id="tspan11083">demand</tspan></text>
+         id="tspan11083"
+         x="7.2114744"
+         y="352.52542">demand</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -622,17 +622,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#006d2c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.496925"
-       y="389.30212"
+       y="408.58783"
        id="text6850"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan11089"
+         id="tspan4283"
          x="82.496925"
-         y="389.30212">Mitigation</tspan><tspan
+         y="408.58783">Mitigation</tspan><tspan
          sodipodi:role="line"
-         id="tspan11091"
+         id="tspan4285"
          x="82.496925"
-         y="409.30212">[Address the cause]</tspan></text>
+         y="428.58783">[Address causes]</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -675,7 +675,7 @@
     <g
        id="g4563"
        transform="matrix(0.12249023,0,0,0.12249023,682.41496,167.93985)"
-       style="fill:#0868ac;fill-opacity:1;stroke-width:2.44917488;stroke-miterlimit:4;stroke-dasharray:none;stroke:none">
+       style="fill:#0868ac;fill-opacity:1;stroke:none;stroke-width:2.44917488;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          inkscape:connector-curvature="0"
          id="path4557"
@@ -700,14 +700,14 @@
        sodipodi:nodetypes="cccccccccscccssscsssssssscccscccscccssscscccccsscc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#636363;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#636363;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="185.25258"
        y="77.387085"
        id="text8142"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan8144"
-         x="188.08461"
+         x="189.52504"
          y="77.387085">CO₂ </tspan></text>
     <g
        id="g10193">
@@ -777,17 +777,23 @@
        ry="14.2177" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="380.19315"
        y="114.13878"
        id="text6160-4-3"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         id="tspan4284">Heat trapping</tspan><tspan
+         id="tspan4284"
+         x="380.19315"
+         y="114.13878">Heat trapping</tspan><tspan
          sodipodi:role="line"
-         id="tspan4286">greenhouse</tspan><tspan
+         id="tspan4286"
+         x="380.19315"
+         y="133.38878">greenhouse</tspan><tspan
          sodipodi:role="line"
-         id="tspan4288">gases</tspan></text>
+         id="tspan4288"
+         x="380.19315"
+         y="152.63878">gases</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -839,26 +845,26 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#0868ac;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="720.38214"
-       y="389.10681"
+       y="408.49017"
        id="text6850-2"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan11085"
+         id="tspan4287"
          x="720.38214"
-         y="389.10681">Adaptation</tspan><tspan
+         y="408.49017">Adaptation</tspan><tspan
          sodipodi:role="line"
-         id="tspan11087"
+         id="tspan4289"
          x="720.38214"
-         y="409.10681">[Address the impacts]</tspan></text>
+         y="428.49017">[Address impacts]</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9798)"
-       d="m 367.50001,362.00505 0,41.42857 -151.42857,0"
+       d="m 378.61169,362.00505 0,54.28571 -118.09354,0"
        id="path11093"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9798-8)"
-       d="m 526.2352,362.05309 0,41.42857 47.14286,0"
+       d="m 526.2352,362.05309 0,54.28571 47.14286,0"
        id="path11093-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
