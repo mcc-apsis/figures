@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="176.02275mm"
+   width="172.8868mm"
    height="124.56448mm"
-   viewBox="0 0 623.70266 441.37019"
+   viewBox="0 0 612.59101 441.37016"
    id="svg5009"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="327.32919"
-     inkscape:cy="172.83625"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="203.17489"
+     inkscape:cy="181.13595"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-73.862938,-136.81726)">
+     transform="translate(-84.974625,-136.81728)">
     <path
        inkscape:connector-curvature="0"
        id="path4404"
@@ -70,11 +70,6 @@
        id="path4492"
        style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef8a62;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        d="m 178.56651,241.32401 0.0498,-0.037 61.83293,-10.802 61.83293,-0.7169 61.83293,7.7234 61.83294,17.2999 61.83292,36.29272 61.83294,49.03136 61.83293,55.55248 61.83292,66.52001 0.0483,0.0558" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path4580"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67a9cf;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       d="m 178.56651,241.32401 0.0498,-0.037 61.83293,22.37461 61.83293,37.33392 61.83293,42.60772 61.83294,47.16473 61.83292,45.5428 61.83294,27.93866 61.83293,31.56272 61.83292,36.06331 0.0483,0.0254" />
     <line
        id="line4222"
        y1="552.84436"
@@ -254,48 +249,48 @@
     <path
        inkscape:connector-curvature="0"
        id="path6035"
-       d="m 208.43699,493.33416 43.9,0"
+       d="m 234.86556,493.33416 43.9,0"
        style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:auto;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67a9cf;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
     <text
        sodipodi:linespacing="109%"
        id="text6037"
        y="501.82416"
-       x="267.12524"
+       x="293.5538"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"><tspan
-         y="501.82416"
-         x="267.12524"
-         id="tspan6039"
-         sodipodi:role="line">No CCS scenarios</tspan></text>
+         sodipodi:role="line"
+         id="tspan4194"
+         x="293.5538"
+         y="501.82416">No CCS</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path6035-8"
-       d="m 208.43678,458.99055 43.90043,0"
+       d="m 234.86535,458.99055 43.90043,0"
        style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef8a62;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
     <text
        sodipodi:linespacing="109%"
        id="text6037-2"
        y="467.49884"
-       x="266.39282"
+       x="292.82138"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"><tspan
-         y="467.49884"
-         x="266.39282"
-         id="tspan6039-7"
-         sodipodi:role="line">Full tech scenario</tspan></text>
+         sodipodi:role="line"
+         id="tspan4192"
+         x="292.82138"
+         y="467.49884">Full tech</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="-349.53418"
-       y="91.221336"
+       y="102.33302"
        id="text24369"
        sodipodi:linespacing="100%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
-         y="91.221336"
+         y="102.33302"
          x="-346.40918"
          sodipodi:role="line"
          id="tspan15078">CO₂ emissions from fossil fuels </tspan><tspan
-         y="116.22134"
+         y="127.33302"
          x="-349.53418"
          sodipodi:role="line"
          id="tspan15080">and industry (GtCO₂/yr)</tspan></text>
@@ -328,5 +323,16 @@
          id="tspan5274"
          x="313.42496"
          y="291.59369">9.1 GtCO2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="231.31625"
+       y="432.47318"
+       id="text4188"
+       sodipodi:linespacing="109%"><tspan
+         sodipodi:role="line"
+         id="tspan4190"
+         x="231.31625"
+         y="432.47318">Scenarios:</tspan></text>
   </g>
 </svg>
