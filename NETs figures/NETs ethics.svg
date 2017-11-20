@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -45,7 +45,7 @@
      showgrid="false"
      inkscape:zoom="0.61564023"
      inkscape:cx="495.62707"
-     inkscape:cy="1017.0163"
+     inkscape:cy="887.07028"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1616,16 +1616,16 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot6569"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.14999998;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:115%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        transform="translate(-47.011866,-1024.5849)"><flowRegion
          id="flowRegion6571"><rect
            id="rect6573"
-           width="405.42596"
-           height="371.97046"
+           width="405.4259"
+           height="412.57858"
            x="1200.3763"
            y="89.780708"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.14999998;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara13968">NETs dis-incentivise costly near-term mitigation, due to the expectation that carbon budgets will expand in the future. This moral hazard can be observed in two equivalent integrated assessment scenarios for meeting 2⁰C, one of which does not allow carbon capture technologies. In the no-CCS scenario, mitigation occurs faster and deeper, reaching a gap of 9.1 GtCO₂ by 2030. Where CCS is permitted, the lack of near-term mitigation commits future generations to a long-term dependence on NETs.</flowPara></flowRoot>    <use
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:115%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
+         id="flowPara5303">NETs dis-incentivise costly near-term mitigation, due to the expectation that carbon budgets will expand in the future. This moral hazard can be observed in two equivalent integrated assessment scenarios for meeting 2⁰C, one of which does not allow carbon capture technologies. In the no-CCS scenario, mitigation occurs faster and deeper, reaching a gap of 9.1 GtCO₂ by 2030. Where CCS is permitted, the lack of near-term mitigation commits future generations to a long-term dependence on NETs, with or without their consent.</flowPara></flowRoot>    <use
        style="fill:#000000;fill-opacity:1"
        id="use5342"
        y="291.00977"
