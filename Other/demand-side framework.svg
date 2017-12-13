@@ -565,7 +565,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1627,7 +1627,7 @@
        xml:space="preserve"
        id="flowRoot4567-1"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(521.34836,-596.52563)"><flowRegion
+       transform="translate(521.34836,-599.022)"><flowRegion
          id="flowRegion4569-6"><rect
            id="rect4571-2"
            width="100.16714"
@@ -1670,15 +1670,15 @@
        xml:space="preserve"
        id="flowRoot4567-1-5"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(107.43717,-605.25671)"><flowRegion
+       transform="translate(106.02571,-611.50671)"><flowRegion
          id="flowRegion4569-6-8"><rect
            id="rect4571-2-1"
-           width="91.600037"
+           width="93.577072"
            height="120.59832"
            x="176.48192"
            y="74.321907"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4927">What are the GHG emissions associated with a given technology or system of provision?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4440">What are the GHG emissions, costs and potentials associated with a given technology or system of provision?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3-1-7-1"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
