@@ -14,9 +14,9 @@
    viewBox="0 0 533.87336 473.18083"
    id="svg5577"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="demand-side framework.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Other\demand-side framework.png"
+   inkscape:export-filename="C:\Users\Will\Documents\GitHub\figures\Other\demand-side framework.png"
    inkscape:export-xdpi="300.0289"
    inkscape:export-ydpi="300.0289">
   <defs
@@ -541,13 +541,13 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.517434"
-     inkscape:cx="148.1506"
-     inkscape:cy="253.26302"
+     inkscape:cx="259.53012"
+     inkscape:cy="410.16777"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -576,14 +576,15 @@
     <text
        transform="translate(-272.10759,644.19178)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6b6b6b;fill-opacity:1;stroke:none;stroke-width:0.93749976"
        x="-52.822693"
        y="423.11832"
        id="text5660-8-4-5"><tspan
          sodipodi:role="line"
          id="tspan5863"
          x="-52.822693"
-         y="423.11832">Climate change mitigation</tspan></text>
+         y="423.11832"
+         style="font-size:17.49999809px;line-height:1.25">Climate change mitigation</tspan></text>
     <path
        transform="translate(-272.10759,644.19178)"
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6b6b6b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
@@ -659,8 +660,7 @@
        y="1097.3683"
        id="text6127"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          style="font-size:12.5px;line-height:1.25"
          sodipodi:role="line"
          id="tspan6129"
@@ -673,8 +673,7 @@
        y="1218.3733"
        id="text6131"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          style="font-size:12.5px;line-height:1.25"
          sodipodi:role="line"
          id="tspan6133"
@@ -769,13 +768,12 @@
        inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="238.70894"
        y="1227.0891"
        id="text7362"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan8527"
          x="238.70894"
@@ -788,13 +786,12 @@
          style="font-size:12.5px;line-height:1.25;stroke-width:1px">production</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="505.52722"
        y="1227.0769"
        id="text7370"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan7400"
          x="505.52722"
@@ -837,13 +834,12 @@
        inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="238.77611"
        y="1108.1211"
        id="text4194"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan4196"
          x="238.77611"
@@ -851,13 +847,12 @@
          style="font-size:12.5px;line-height:1.25;stroke-width:1px">Fuel prices</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="371.03329"
        y="1108.1211"
        id="text4198"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan4200"
          x="371.03329"
@@ -865,13 +860,12 @@
          style="font-size:12.5px;line-height:1.25;stroke-width:1px">Modal choice</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="505.56995"
        y="1108.1089"
        id="text4202"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan4206"
          x="505.56995"
@@ -1042,13 +1036,12 @@
        inkscape:export-ydpi="300" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#676767;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="371.08521"
        y="1227.0891"
        id="text7366"
        inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300"
-       sodipodi:linespacing="0%"><tspan
+       inkscape:export-ydpi="300"><tspan
          sodipodi:role="line"
          id="tspan7404"
          x="371.08521"
@@ -1087,8 +1080,7 @@
        x="-40.987949"
        y="792.08026"
        id="text5151"
-       transform="scale(1.0432522,0.95854099)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.95854099)"><tspan
          style="font-size:13.9725008px;line-height:1"
          sodipodi:role="line"
          id="tspan5228"
@@ -1112,8 +1104,7 @@
        x="-54.71468"
        y="801.16309"
        id="text28836"
-       transform="scale(1.0432522,0.95854099)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.95854099)"><tspan
          style="font-size:16.30125046px;line-height:1"
          y="801.16309"
          x="-54.71468"
@@ -1128,12 +1119,11 @@
        y="746.15253" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="160.59015"
        y="791.54211"
        id="text5151-0"
-       transform="scale(1.0432522,0.958541)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.958541)"><tspan
          sodipodi:role="line"
          id="tspan7252"
          x="160.59015"
@@ -1153,12 +1143,11 @@
        y="746.15253" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="146.86343"
        y="800.62494"
        id="text28836-6"
-       transform="scale(1.0432522,0.958541)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.958541)"><tspan
          y="800.62494"
          x="146.86343"
          sodipodi:role="line"
@@ -1177,8 +1166,7 @@
        x="130.33469"
        y="983.03131"
        id="text5151-0-6"
-       transform="scale(1.0432522,0.95854099)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.95854099)"><tspan
          style="font-size:13.9725008px;line-height:1"
          y="983.03131"
          x="130.33469"
@@ -1202,8 +1190,7 @@
        x="116.60797"
        y="992.11414"
        id="text28836-6-6"
-       transform="scale(1.0432522,0.95854099)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.95854099)"><tspan
          style="font-size:16.30125046px;line-height:1"
          y="992.11414"
          x="116.60797"
@@ -1218,12 +1205,11 @@
        y="746.47217" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="625.65625"
        y="791.87561"
        id="text5151-0-6-9"
-       transform="scale(1.0432522,0.958541)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.958541)"><tspan
          y="791.87561"
          x="625.65625"
          sodipodi:role="line"
@@ -1243,12 +1229,11 @@
        y="746.47217" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="611.92957"
        y="800.95837"
        id="text28836-6-6-3"
-       transform="scale(1.0432522,0.958541)"
-       sodipodi:linespacing="0%"><tspan
+       transform="scale(1.0432522,0.958541)"><tspan
          sodipodi:role="line"
          id="tspan7263"
          x="611.92957"
@@ -1256,11 +1241,10 @@
          style="font-size:16.30125046px;line-height:1;stroke-width:1px">D</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-5.4950066"
        y="854.87915"
-       id="text5423"
-       sodipodi:linespacing="0%"><tspan
+       id="text5423"><tspan
          sodipodi:role="line"
          id="tspan5425"
          x="-5.4950066"
@@ -1268,11 +1252,10 @@
          style="font-size:17.5px;line-height:1.05999994;stroke-width:1px">Mobility</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="-68.595505"
        y="800.34363"
-       id="text5427"
-       sodipodi:linespacing="0%"><tspan
+       id="text5427"><tspan
          sodipodi:role="line"
          id="tspan7246"
          x="-68.595505"
@@ -1290,11 +1273,10 @@
          style="font-size:13.74999905px;line-height:1.05999994;stroke-width:1px">e.g:</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="166.43999"
        y="799.37164"
-       id="text5435"
-       sodipodi:linespacing="0%"><tspan
+       id="text5435"><tspan
          sodipodi:role="line"
          id="tspan5477"
          style="font-weight:bold;font-size:13.74999905px;line-height:1.05999994;stroke-width:1px"
@@ -1332,11 +1314,10 @@
          style="font-size:13.74999905px;line-height:1.05999994;stroke-width:1px">- Tele-services (e.g. medicine)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="346.44"
        y="799.4455"
-       id="text5439"
-       sodipodi:linespacing="0%"><tspan
+       id="text5439"><tspan
          sodipodi:role="line"
          id="tspan5459"
          x="346.44"
@@ -1364,11 +1345,10 @@
          style="font-size:13.74999905px;line-height:1.05999994;stroke-width:1px">or public transit</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="502.94"
        y="798.77411"
-       id="text5443"
-       sodipodi:linespacing="0%"><tspan
+       id="text5443"><tspan
          sodipodi:role="line"
          id="tspan5469"
          x="502.94"
@@ -1415,11 +1395,10 @@
        ry="11.354942" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="634.44"
        y="804.91473"
-       id="text5564"
-       sodipodi:linespacing="0%"><tspan
+       id="text5564"><tspan
          sodipodi:role="line"
          id="tspan5566"
          x="634.44"
@@ -1476,36 +1455,38 @@
        ry="8.1998653" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749982"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93749982"
        x="39.281784"
        y="454.00912"
        id="text5664-6-4"><tspan
          sodipodi:role="line"
          id="tspan6120"
          x="39.281784"
-         y="454.00912">Q: <tspan
+         y="454.00912"
+         style="font-size:12.49999905px;line-height:1.25">Q: <tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle"
    id="tspan6126">What is the potential for demand-</tspan></tspan><tspan
          sodipodi:role="line"
          id="tspan6122"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle"
          x="40.6978"
          y="469.63412">side climate mitigation solutions, </tspan><tspan
          sodipodi:role="line"
          id="tspan6124"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle"
          x="39.281784"
          y="485.25912">at what time-scales?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.49999905px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9374997"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9374997"
        x="39.104782"
        y="515.11902"
        id="text5923-2-0-9-9"><tspan
          sodipodi:role="line"
          id="tspan6179"
          x="39.104782"
-         y="515.11902">D: Integrated Assessment Modelling</tspan></text>
+         y="515.11902"
+         style="font-size:12.49999905px;line-height:1.25">D: Integrated Assessment Modelling</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:2.12245941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5491-4-6-7-7"
@@ -1516,19 +1497,18 @@
        ry="8.0049086" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="479.06458"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       x="470.36157"
        y="-623.45178"
-       id="text5660-8-4-5-2"
-       sodipodi:linespacing="125%"><tspan
+       id="text5660-8-4-5-2"><tspan
          sodipodi:role="line"
-         id="tspan4563"
-         x="479.06458"
-         y="-623.45178">End-Use Context</tspan></text>
+         id="tspan4793"
+         x="470.36157"
+         y="-623.45178">b. End-Use Context</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(251.25505,-679.78762)"><flowRegion
          id="flowRegion4569"><rect
            id="rect4571"
@@ -1537,10 +1517,11 @@
            x="176.48192"
            y="74.321907"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4575">What norms, values, preferences and structural factors shape energy demand and GHG emissions?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4575"
+         style="font-size:12.5px;line-height:1">What norms, values, preferences and structural factors shape energy demand and GHG emissions?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(251.48534,-630.52871)"><flowRegion
          id="flowRegion4569-7"><rect
            id="rect4571-0"
@@ -1549,7 +1530,8 @@
            x="187.81706"
            y="75.639923"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5170">Economics, Marketing studies, Psychology, Sociology, Transition Studies, Urban Studies</flowPara></flowRoot>    <rect
+         id="flowPara5170"
+         style="font-size:12.5px;line-height:1">Economics, Marketing studies, Psychology, Sociology, Transition Studies, Urban Studies</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:2.12245941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5491-4-6-7-7-3"
        width="256.62753"
@@ -1559,19 +1541,18 @@
        ry="9.1746473" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="472.70288"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       x="464.24341"
        y="-464.1366"
-       id="text5660-8-4-5-2-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text5660-8-4-5-2-0"><tspan
          sodipodi:role="line"
-         id="tspan4648"
-         x="472.70288"
-         y="-464.1366">Policy Instruments</tspan></text>
+         id="tspan4797"
+         x="464.24341"
+         y="-464.1366">d. Policy Instruments</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(252.58544,-453.4205)"><flowRegion
          id="flowRegion4569-7-9"><rect
            id="rect4571-0-3"
@@ -1579,11 +1560,12 @@
            height="61.287674"
            x="187.81706"
            y="75.639923"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr;text-anchor:middle;fill:#2171b5;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara4444">Economics, Political Science, Psychology, Sociology, Transition Studies, Urban Studies</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4444"
+         style="font-size:12.5px;line-height:1">Economics, Political Science, Psychology, Sociology, Transition Studies, Urban Studies</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-5"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(238.59818,-521.62358)"><flowRegion
          id="flowRegion4569-9"><rect
            id="rect4571-3"
@@ -1592,10 +1574,11 @@
            x="189.13878"
            y="75.639923"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4695">Which measures under what conditions can reduce demand-side GHG emissions?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4695"
+         style="font-size:12.5px;line-height:1">Which measures under what conditions can reduce demand-side GHG emissions?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-5-1"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(238.9298,-490.87161)"><flowRegion
          id="flowRegion4569-9-0"><rect
            id="rect4571-3-6"
@@ -1604,7 +1587,8 @@
            x="189.13878"
            y="75.639923"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4697">How can measures be best implemented and become part of every-day practice?</flowPara></flowRoot>    <rect
+         id="flowPara4697"
+         style="font-size:12.5px;line-height:1">How can measures be best implemented and become part of every-day practice?</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:2.12245941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5491-4-6-7-7-1"
        width="113.59552"
@@ -1614,19 +1598,18 @@
        ry="9.5180283" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="709.88336"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       x="701.86401"
        y="-619.70978"
-       id="text5660-8-4-5-2-9"
-       sodipodi:linespacing="125%"><tspan
+       id="text5660-8-4-5-2-9"><tspan
          sodipodi:role="line"
-         id="tspan4771"
-         x="709.88336"
-         y="-619.70978">Well-being</tspan></text>
+         id="tspan4795"
+         x="701.86401"
+         y="-619.70978">c. Well-being</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567-1"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(521.34836,-599.022)"><flowRegion
          id="flowRegion4569-6"><rect
            id="rect4571-2"
@@ -1635,10 +1618,11 @@
            x="176.48192"
            y="74.321907"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4799">How do demand-side mitigation measures impact on human well-being?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4799"
+         style="font-size:12.5px;line-height:1">How do demand-side mitigation measures impact on human well-being?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3-1-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(505.74155,-453.8508)"><flowRegion
          id="flowRegion4569-7-9-2"><rect
            id="rect4571-0-3-1"
@@ -1647,7 +1631,8 @@
            x="187.81706"
            y="75.639923"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4441">Economics, Philosophy, Psychology</flowPara></flowRoot>    <rect
+         id="flowPara4441"
+         style="font-size:12.5px;line-height:1">Economics, Philosophy, Psychology</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:2.12245941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5491-4-6-7-7-1-4"
        width="113.59552"
@@ -1657,19 +1642,18 @@
        ry="9.5180283" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="289.96353"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       x="281.26053"
        y="-619.70978"
-       id="text5660-8-4-5-2-9-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text5660-8-4-5-2-9-4"><tspan
          sodipodi:role="line"
-         id="tspan4925"
-         x="289.96353"
-         y="-619.70978">Technology</tspan></text>
+         id="tspan4791"
+         x="281.26053"
+         y="-619.70978">a. Technology</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567-1-5"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(106.02571,-611.50671)"><flowRegion
          id="flowRegion4569-6-8"><rect
            id="rect4571-2-1"
@@ -1678,10 +1662,11 @@
            x="176.48192"
            y="74.321907"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4440">What are the GHG emissions, costs and potentials associated with a given technology or system of provision?</flowPara></flowRoot>    <flowRoot
+         id="flowPara4440"
+         style="font-size:12.5px;line-height:1">What are the GHG emissions, costs and potentials associated with a given technology or system of provision?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3-1-7-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(87.836464,-464.26645)"><flowRegion
          id="flowRegion4569-7-9-2-2"><rect
            id="rect4571-0-3-1-4"
@@ -1690,7 +1675,8 @@
            x="187.81706"
            y="75.639923"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4929">Engineering, Industrial Ecology, Technological Innovation Studies</flowPara></flowRoot>    <rect
+         id="flowPara4929"
+         style="font-size:12.5px;line-height:1">Engineering, Industrial Ecology, Technological Innovation Studies</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:2.12245941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5491-4-6-7-7-12"
        width="252.87753"
@@ -1700,20 +1686,19 @@
        ry="7.8489432" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.37166977px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="299.95978"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       x="293.30856"
        y="-282.96121"
        id="text5660-8-4-5-2-8"
-       sodipodi:linespacing="125%"
        transform="scale(0.99266678,1.0073874)"><tspan
          sodipodi:role="line"
-         id="tspan5063"
-         x="299.95978"
-         y="-282.96121">Climate mitigation pathways</tspan></text>
+         id="tspan4799"
+         x="293.30856"
+         y="-282.96121">e. Climate mitigation pathways</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567-11"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.98538741,0,0,1,113.08827,-336.5098)"><flowRegion
          id="flowRegion4569-3"><rect
            id="rect4571-06"
@@ -1722,10 +1707,11 @@
            x="176.48192"
            y="74.321907"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5160">How does the demand-side contribute to limiting global warming? How do demand solutions interact with supply sectors?</flowPara></flowRoot>    <flowRoot
+         id="flowPara5160"
+         style="font-size:12.50004005px;line-height:1">How does the demand-side contribute to limiting global warming? How do demand solutions interact with supply sectors?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.98538741,0,0,1,114.01532,-283.18127)"><flowRegion
          id="flowRegion4569-7-8"><rect
            id="rect4571-0-7"
@@ -1734,7 +1720,8 @@
            x="187.81706"
            y="75.639923"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5166">Integrated Assessment Modelling, Partial Equilibrium Models</flowPara></flowRoot>    <rect
+         id="flowPara5166"
+         style="font-size:12.50004005px;line-height:1">Integrated Assessment Modelling, Partial Equilibrium Models</flowPara></flowRoot>    <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f0f0f0;fill-opacity:1;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:2.12245941;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5491-4-6-7-7-12-0"
        width="252.87753"
@@ -1744,20 +1731,19 @@
        ry="7.8489432" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.37166977px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="596.14532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.49999809px;line-height:0%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
+       x="587.47388"
        y="-282.96121"
        id="text5660-8-4-5-2-8-2"
-       sodipodi:linespacing="125%"
        transform="scale(0.99266678,1.0073874)"><tspan
-         y="-282.96121"
-         x="596.14532"
          sodipodi:role="line"
-         id="tspan5110">Sustainable development</tspan></text>
+         id="tspan4801"
+         x="587.47388"
+         y="-282.96121">f. Sustainable development</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4567-11-6"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.98538741,0,0,1,396.04487,-335.96323)"><flowRegion
          id="flowRegion4569-3-4"><rect
            id="rect4571-06-0"
@@ -1766,10 +1752,11 @@
            x="176.48192"
            y="74.321907"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Italic';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#99000d;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5162">What are the synergies and trade-offs between demand-side solutions and sustainable development?</flowPara></flowRoot>    <flowRoot
+         id="flowPara5162"
+         style="font-size:12.50004005px;line-height:1">What are the synergies and trade-offs between demand-side solutions and sustainable development?</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4567-3-8-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50003963px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.98538741,0,0,1,397.35644,-282.12841)"><flowRegion
          id="flowRegion4569-7-8-6"><rect
            id="rect4571-0-7-2"
@@ -1777,6 +1764,7 @@
            height="61.287674"
            x="187.81706"
            y="75.639923"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50003963px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr;text-anchor:middle;fill:#2171b5;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara4442">Development Studies, Geography, Political Science</flowPara></flowRoot>  </g>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.50004005px;line-height:100%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#2171b5;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara4442"
+         style="font-size:12.50004005px;line-height:1">Development Studies, Geography, Political Science</flowPara></flowRoot>  </g>
 </svg>
