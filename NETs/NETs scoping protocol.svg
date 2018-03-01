@@ -12,17 +12,62 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="391.56143mm"
-   height="232.8551mm"
-   viewBox="0 0 1387.4224 825.07714"
+   height="226.56165mm"
+   viewBox="0 0 1387.4224 802.77749"
    id="svg4813"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="NETs scoping protocol.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs figures\NETs scoping protocol.png"
+   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\NETs scoping protocol.png"
    inkscape:export-xdpi="399.99896"
    inkscape:export-ydpi="399.99896">
   <defs
      id="defs4815">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker10586"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4572"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5662"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6,-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path5664" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4804"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4575"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
@@ -1757,8 +1802,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67265674"
-     inkscape:cx="640.87598"
-     inkscape:cy="396.73036"
+     inkscape:cx="678.95045"
+     inkscape:cy="370.60459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1775,19 +1820,19 @@
      inkscape:snap-grids="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
-       position="-16.887464,90.425705"
+       position="-16.887464,90.425694"
        orientation="0,1182.4285"
        id="guide10769" />
     <sodipodi:guide
-       position="1165.5412,90.425705"
+       position="1165.5412,90.425694"
        orientation="-676.71429,0"
        id="guide10771" />
     <sodipodi:guide
-       position="-16.887464,767.13999"
+       position="-16.887464,767.14001"
        orientation="0,-1182.4285"
        id="guide10773" />
     <sodipodi:guide
-       position="-16.887464,767.13999"
+       position="-16.887464,767.14001"
        orientation="676.71429,0"
        id="guide10775" />
     <sodipodi:guide
@@ -1799,11 +1844,11 @@
        orientation="1,0"
        id="guide10781" />
     <sodipodi:guide
-       position="360.2554,591.85429"
+       position="360.2554,591.8543"
        orientation="1,0"
        id="guide10783" />
     <sodipodi:guide
-       position="195.96969,548.99713"
+       position="195.96969,548.99714"
        orientation="0,1"
        id="guide10785" />
   </sodipodi:namedview>
@@ -1823,12 +1868,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="base"
-     transform="translate(-16.887464,57.937078)">
+     transform="translate(-16.887464,35.637443)">
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker24111)"
-       d="m 36.945152,99.372208 0,50.458322"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10586);marker-end:url(#marker24111)"
+       d="m 36.945152,96.398924 0,60.121496"
        id="path24103"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker24111-3)"
        d="m 37.82446,272.96527 0,50.45833"
@@ -1838,19 +1884,19 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.00000191px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="260.49789"
-       y="-37.605045"
+       y="-15.30541"
        id="text29482"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan29484"
          x="260.49789"
-         y="-37.605045">Scoping Protocol for an Assessment of Negative Emissions Technologies</tspan></text>
+         y="-15.30541">Scoping Protocol for an Assessment of Negative Emissions Technologies</tspan></text>
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-17.816035,43.217731)">
+     transform="translate(-17.816035,20.918096)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1884,7 +1930,11 @@
          sodipodi:role="line"
          id="tspan20161"
          x="70.172226"
-         y="328.58603">      4. Identify and include any additional references</tspan></text>
+         y="328.58603">      4. Identify and include any additional references</tspan><tspan
+         sodipodi:role="line"
+         x="70.172226"
+         y="352.58603"
+         id="tspan4538">        5. Contact authors to request further relevant documents</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text5440-8"
@@ -2021,18 +2071,18 @@
        id="text17271-5"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan5764">861 documents</tspan></text>
+         id="tspan4542">927 documents</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="330.91406"
+       x="156.0963"
        y="65.588982"
        id="text5432"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5434"
-         x="330.91406"
-         y="65.588982">Search query development: Scopus &amp; Web of Science</tspan></text>
+         x="156.0963"
+         y="65.588982">Identify literature</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:120.00000477%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2043,7 +2093,7 @@
          sodipodi:role="line"
          id="tspan20175"
          x="76.44873"
-         y="94.319199">1. Design search query</tspan><tspan
+         y="94.319199">1. Design search query (Web of Science, Scopus)</tspan><tspan
          sodipodi:role="line"
          id="tspan20177"
          x="76.44873"
@@ -2081,21 +2131,23 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1">1</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 693.75364,52.862213 0,84.575427"
+       d="m 693.75364,52.862213 0,105.599727"
        id="path17349"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="778.23993"
-       y="121.37174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="710.01727"
+       y="117.69249"
        id="text17271-2"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan5758">6,284 documents</tspan></text>
+         x="710.01727"
+         y="117.69249"
+         id="tspan5463">6,284 documents (Web of Science, Scopus)</tspan></text>
     <g
-       transform="matrix(0.77181801,0,0,0.77181801,510.56775,-237.31646)"
+       transform="matrix(0.77181801,0,0,0.77181801,510.56775,-237.84206)"
        id="g4250-1-0">
       <image
          y="382.48441"
@@ -2191,13 +2243,15 @@
          id="tspan17353">literature</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="776.85321"
        y="320.75098"
        id="text17271"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan5760">1,984 documents</tspan></text>
+         id="tspan5760"
+         x="776.85321"
+         y="320.75098">2,134 documents</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6756-4-3-6)"
        d="m 694.49087,294.6213 192.22104,0 c 23.08877,0 29.41884,-0.0858 48.10589,-0.0858"
@@ -2246,7 +2300,7 @@
        id="text17271-8"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan5762">1,984 documents</tspan></text>
+         id="tspan13541">2,134 documents</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="m 694.49087,672.729 192.22103,0 c 23.08877,0 29.41884,-0.0858 48.10589,-0.0858"
@@ -2537,5 +2591,16 @@
              id="tspan30227-1-8">List of NETs documents coded by innovation</tspan></text>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="710.44696"
+       y="142.78151"
+       id="text17271-2-8"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         x="710.44696"
+         y="142.78151"
+         id="tspan5463-9">273 documents (added by authors)</tspan></text>
   </g>
 </svg>

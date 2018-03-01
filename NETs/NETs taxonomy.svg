@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="178.38315"
-     inkscape:cy="63.074413"
+     inkscape:zoom="0.7184354"
+     inkscape:cx="605.77319"
+     inkscape:cy="289.34858"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -38,8 +38,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -53,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -248,23 +248,17 @@
        ry="3.8288496" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:110.00000238%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:110%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#ffefff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="452.22015"
        y="169.36421"
        id="text5261-6-0"
        sodipodi:linespacing="110%"><tspan
          sodipodi:role="line"
-         id="tspan4473"
-         x="452.22015"
-         y="169.36421">Direct air</tspan><tspan
+         id="tspan4392">Direct air</tspan><tspan
          sodipodi:role="line"
-         id="tspan4475"
-         x="452.22015"
-         y="185.86421">capture</tspan><tspan
+         id="tspan4394">capture</tspan><tspan
          sodipodi:role="line"
-         id="tspan4477"
-         x="452.22015"
-         y="202.36421">(DAC)</tspan></text>
+         id="tspan4396">(DACCS)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
