@@ -1802,7 +1802,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.67265674"
-     inkscape:cx="678.95045"
+     inkscape:cx="639.38036"
      inkscape:cy="370.60459"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -2137,15 +2137,13 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="710.01727"
        y="117.69249"
        id="text17271-2"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="710.01727"
-         y="117.69249"
-         id="tspan5463">6,284 documents (Web of Science, Scopus)</tspan></text>
+         id="tspan22161">6,326 documents (Web of Science, Scopus)</tspan></text>
     <g
        transform="matrix(0.77181801,0,0,0.77181801,510.56775,-237.84206)"
        id="g4250-1-0">
@@ -2243,15 +2241,13 @@
          id="tspan17353">literature</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="776.85321"
        y="320.75098"
        id="text17271"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan5760"
-         x="776.85321"
-         y="320.75098">2,134 documents</tspan></text>
+         id="tspan5976">2,092 documents</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6756-4-3-6)"
        d="m 694.49087,294.6213 192.22104,0 c 23.08877,0 29.41884,-0.0858 48.10589,-0.0858"
@@ -2300,7 +2296,7 @@
        id="text17271-8"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan13541">2,134 documents</tspan></text>
+         id="tspan5978">2,092 documents</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
        d="m 694.49087,672.729 192.22103,0 c 23.08877,0 29.41884,-0.0858 48.10589,-0.0858"
@@ -2593,14 +2589,12 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="710.44696"
        y="142.78151"
        id="text17271-2-8"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="710.44696"
-         y="142.78151"
-         id="tspan5463-9">273 documents (added by authors)</tspan></text>
+         id="tspan22159">270 documents (added by authors)</tspan></text>
   </g>
 </svg>

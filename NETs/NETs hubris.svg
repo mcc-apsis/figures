@@ -17,7 +17,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="NETs hubris.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs figures\NETs hubris.png"
+   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\NETs hubris.png"
    inkscape:export-xdpi="600.01044"
    inkscape:export-ydpi="600.01044">
   <defs
@@ -82,9 +82,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="264.2955"
-     inkscape:cy="249.32818"
+     inkscape:zoom="0.7"
+     inkscape:cx="263.8571"
+     inkscape:cy="160.96744"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -92,8 +92,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1067,24 +1067,18 @@
          y="156.37283">Global carbon budget</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;color-interpolation:auto;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.49999998px;line-height:109%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;display:inline;color-interpolation:auto;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;"
        x="763.36261"
        y="156.31583"
        id="text7895"
        sodipodi:linespacing="109%"
        transform="scale(0.99990741,1.0000926)"><tspan
          sodipodi:role="line"
-         id="tspan4413"
-         x="763.36261"
-         y="156.31583">Range of annual NETs</tspan><tspan
+         id="tspan15454">Range of annual NETs</tspan><tspan
          sodipodi:role="line"
-         id="tspan4415"
-         x="763.36261"
-         y="180.84082">deployment in 450ppm</tspan><tspan
+         id="tspan15456">deployment in &quot;likely&quot;</tspan><tspan
          sodipodi:role="line"
-         id="tspan4417"
-         x="763.36261"
-         y="205.36583">scenarios</tspan></text>
+         id="tspan15458">2°C scenarios</tspan></text>
     <line
        y2="529.33838"
        style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"

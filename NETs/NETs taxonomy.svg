@@ -29,10 +29,10 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7184354"
-     inkscape:cx="605.77319"
-     inkscape:cy="289.34858"
+     inkscape:cx="541.06913"
+     inkscape:cy="178.56416"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1322,13 +1322,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="870.67749"
-       y="590.51526"
+       y="575.51892"
        id="text4617"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         id="tspan4625"
+         id="tspan4384"
          x="870.67749"
-         y="590.51526">Marine calcifiers</tspan></text>
+         y="575.51892">Marine sediment</tspan><tspan
+         sodipodi:role="line"
+         id="tspan4386"
+         x="870.67749"
+         y="590.51892">&amp; calcifiers</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
