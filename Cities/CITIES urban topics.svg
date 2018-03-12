@@ -16,10 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="urban metabolism.svg"
+   sodipodi:docname="CITIES urban topics.svg"
    inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Publications\_Submitted\1.5 degree cities\figures\city topics.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-xdpi="399.98798"
+   inkscape:export-ydpi="399.98798">
   <defs
      id="defs4">
     <marker
@@ -2586,7 +2586,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

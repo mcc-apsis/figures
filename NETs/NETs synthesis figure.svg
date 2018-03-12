@@ -60709,11 +60709,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="159.45722"
-     inkscape:cy="397.47661"
+     inkscape:zoom="0.7"
+     inkscape:cx="-135.65598"
+     inkscape:cy="298.62005"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
@@ -61884,8 +61884,7 @@
      id="layer5"
      inkscape:label="Titles, text, legend"
      transform="translate(-99.37376,-90.982177)"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        y="657.12091"
        x="240.53163"
@@ -62784,27 +62783,23 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75000095px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="188.96445"
        y="908.12024"
        id="text18633-1-4-4"
        sodipodi:linespacing="120%"><tspan
          sodipodi:role="line"
-         id="tspan16774"
-         x="188.96445"
-         y="908.12024">Potentials in GtCO₂⁻¹</tspan></text>
+         id="tspan16740">Potentials in GtCO₂ yr⁻¹</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75px;line-height:120.00000477%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.74999996px;line-height:120%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="-831.24188"
        y="108.20307"
        id="text18633-9-9"
        sodipodi:linespacing="120%"
        transform="matrix(0,-1.0000001,0.99999991,0,0,0)"><tspan
          sodipodi:role="line"
-         id="tspan61753-9"
-         x="-831.24188"
-         y="108.20307">Cost in US$ tCO₂⁻¹</tspan></text>
+         id="tspan16738">Cost in US$ tCO₂ yr⁻¹</tspan></text>
     <path
        inkscape:connector-curvature="0"
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.50000006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
