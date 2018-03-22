@@ -26,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,9 +43,9 @@
      inkscape:window-height="1027"
      id="namedview6309"
      showgrid="false"
-     inkscape:zoom="0.43532338"
-     inkscape:cx="623.8882"
-     inkscape:cy="739.2465"
+     inkscape:zoom="0.61564023"
+     inkscape:cx="487.25958"
+     inkscape:cy="974.85962"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1985,67 +1985,63 @@
            x="1523.6171"
            y="229.47266" /></flowRegion><flowPara
          id="flowPara24365" /></flowRoot>    <g
-       id="g13180"
-       transform="translate(0,-24.193513)">
+       id="g13143"
+       transform="translate(-35.735157,-9.469445)">
       <g
-         transform="translate(-35.735157,14.724068)"
-         id="g13143">
-        <g
-           id="g6561"
-           transform="translate(-121.01224,-537.21363)">
-          <rect
-             y="-466.10538"
-             x="1347.8622"
-             height="40"
-             width="231.86574"
-             id="rect5149"
-             style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65183145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-          <text
-             sodipodi:linespacing="100%"
-             id="text5151"
-             y="-436.37881"
+         transform="translate(-121.01224,-537.21363)"
+         id="g6561">
+        <rect
+           style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65183145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect5149"
+           width="231.86574"
+           height="40"
+           x="1347.8622"
+           y="-466.10538" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+           x="1367.3171"
+           y="-436.37881"
+           id="text5151"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan5153"
              x="1367.3171"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-             xml:space="preserve"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1"
-               y="-436.37881"
-               x="1367.3171"
-               id="tspan5153"
-               sodipodi:role="line">Moral Hazard</tspan></text>
-          <rect
-             y="-466.10538"
-             x="1308.1586"
-             height="40.000004"
-             width="40.000004"
-             id="rect28834"
-             style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.68059698;fill-rule:nonzero;stroke:none;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-          <text
-             sodipodi:linespacing="100%"
-             id="text28836"
-             y="-434.27921"
+             y="-436.37881"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1">Moral Hazard</tspan></text>
+        <rect
+           style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.68059698;fill-rule:nonzero;stroke:none;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+           id="rect28834"
+           width="40.000004"
+           height="40.000004"
+           x="1308.1586"
+           y="-466.10538" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+           x="1328.2269"
+           y="-434.27921"
+           id="text28836"
+           sodipodi:linespacing="100%"><tspan
+             sodipodi:role="line"
+             id="tspan6553"
              x="1328.2269"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-             xml:space="preserve"><tspan
-               y="-434.27921"
-               x="1328.2269"
-               id="tspan6553"
-               sodipodi:role="line">1</tspan></text>
-        </g>
+             y="-434.27921">1</tspan></text>
       </g>
-      <flowRoot
-         transform="translate(-47.011866,-1024.5849)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot6569"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6571"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-             y="89.780708"
-             x="1200.3763"
-             height="412.57858"
-             width="405.4259"
-             id="rect6573" /></flowRegion><flowPara
-           id="flowPara12846">NETs dis-incentivise costly near-term mitigation, due to the expectation that they can compensate for current and future fossil fuel emissions. To hold an informed discussion on the severity of this moral hazard, scenarios that constrain NETs can be compared to those that do not. Under two such scenarios for meeting 2⁰C, mitigation occurs faster and deeper in the absence of carbon capture technologies, reaching a gap of 9.1 GtCO₂ by 2030 - a sizable gap that should be the focus of ethical debate.</flowPara></flowRoot>    </g>
-    <use
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6569"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-47.011866,-1048.7784)"><flowRegion
+         id="flowRegion6571"><rect
+           id="rect6573"
+           width="405.4259"
+           height="412.57858"
+           x="1200.3763"
+           y="89.780708"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara12846">NETs dis-incentivise costly near-term mitigation, due to the expectation that they can compensate for current and future fossil fuel emissions. To hold an informed discussion on the severity of this moral hazard, scenarios that constrain NETs can be compared to those that do not. Under two such scenarios for meeting 2⁰C, mitigation occurs faster and deeper in the absence of carbon capture technologies, reaching a gap of 9.1 GtCO₂ by 2030 - a sizable gap that should be the focus of ethical debate.</flowPara></flowRoot>    <use
        style="fill:#000000;fill-opacity:1"
        id="use5342"
        y="291.00977"
