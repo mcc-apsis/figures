@@ -304,9 +304,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.017006"
-     inkscape:cx="-71.529604"
-     inkscape:cy="199.14698"
+     inkscape:zoom="0.71913184"
+     inkscape:cx="22.249896"
+     inkscape:cy="216.87769"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -325,10 +325,6 @@
        position="548.51285,140.97933"
        orientation="1,0"
        id="guide35745" />
-    <sodipodi:guide
-       position="18.205522,334.20137"
-       orientation="0,1"
-       id="guide18043" />
   </sodipodi:namedview>
   <metadata
      id="metadata16740">
@@ -2957,30 +2953,5 @@
        cx="245.62744"
        cy="634.65277"
        r="4.7366142" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.244921,510.17382 11.378449,0"
-       id="path18008"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.24492,517.54492 11.37845,0"
-       id="path18008-1"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.244924,524.91605 11.378446,0"
-       id="path18008-2"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.244919,532.28717 11.378451,0"
-       id="path18008-8"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 98.24492,539.65827 11.37845,0"
-       id="path18008-3"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
