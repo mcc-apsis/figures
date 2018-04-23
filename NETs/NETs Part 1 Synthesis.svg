@@ -304,9 +304,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4382637"
-     inkscape:cx="328.20807"
-     inkscape:cy="431.73361"
+     inkscape:zoom="1.017006"
+     inkscape:cx="338.88583"
+     inkscape:cy="338.07295"
      inkscape:document-units="px"
      inkscape:current-layer="layer7"
      showgrid="false"
@@ -537,15 +537,6 @@
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\synthesis_BC.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
-    <path
-       style="fill:#636363;fill-opacity:1"
-       d="m 528.96995,181.24444 c -0.0698,-0.84256 -0.0345,-1.20755 0.23275,-1.67665 0.42564,-0.8243 0.007,-1.38285 -0.35271,-1.77855 -0.35973,-0.3957 -1.09987,-0.41892 -1.58745,0.0391 -0.48758,0.45806 -0.58568,1.30187 -0.28696,1.7394 0.29871,0.43749 0.19605,0.67771 0.12713,1.53641 l -0.10557,1.31503 1.03511,0 1.0351,0 -0.0974,-1.17479 z m -6.36032,-6.25225 5.49364,0 5.49365,0 -0.0701,-2.01576 c -0.11053,-3.17768 -0.11851,-3.65561 -0.51716,-4.40252 -1.01902,-1.9093 -2.81958,-3.03191 -4.88753,-3.04729 -2.19771,-0.0162 -3.85681,0.61324 -4.81139,2.52883 -0.50898,1.02139 -0.53272,1.54271 -0.53272,2.33476 l -1.82838,-0.0322 c 0.0177,-0.90543 0.0732,-1.63754 0.74539,-3.0024 0.78405,-1.59192 1.73652,-2.21368 3.36975,-2.97949 1.5598,-0.73137 4.34846,-0.76964 5.8568,-0.0804 1.78563,0.81597 3.53934,2.79035 4.11547,4.63329 0.11848,0.379 0.25144,2.17705 0.29547,3.99569 0.044,1.81864 0.0823,1.82717 0.0852,1.91242 0.002,0.0853 0.19531,0.15499 0.4278,0.15499 0.2325,0 0.65099,0.22827 0.92999,0.50727 l 0.50727,0.50726 0,3.93674 c 0,3.66391 -0.0832,4.85422 -0.20231,5.07679 -0.40448,0.7558 -1.27754,0.8349 -9.18005,0.83175 -5.73488,-0.002 -7.79657,-0.0685 -8.17996,-0.2624 -1.00534,-0.50866 -1.08226,0.69642 -0.98881,-5.92717 l 0.0547,-3.88062 0.48789,-0.39481 c 0.26833,-0.21714 0.70104,-0.39481 0.96158,-0.39481 z"
-       id="path32381-9-8-1-1"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cczzzsccccccccssssccsssssssscssssscscc"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\synthesis_BC.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -562,18 +553,16 @@
          y="172.45276">Permanence</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="389.15729"
        y="183.43073"
        id="text32662-5-3"
-       sodipodi:linespacing="117.99999%"
+       sodipodi:linespacing="118%"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\synthesis_BC.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
-         id="tspan6249"
-         x="389.15729"
-         y="183.43073">Reversible</tspan></text>
+         id="tspan4638">Stable</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -965,6 +954,15 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sscssssssssssscsssscczzzscccccssssscccs"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\synthesis_EW.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 519.19064,186.27883 c -1.06973,-0.54124 -1.15158,0.74102 -1.05215,-6.30683 l 0.0583,-4.12914 0.51913,-0.4201 c 0.28552,-0.23105 0.74597,-0.42009 1.02319,-0.42009 0.50367,0 0.58036,-0.2028 0.58036,-2.26009 0,-3.90082 0.0779,-3.91159 0.79313,-5.36387 0.83426,-1.69389 2.02691,-2.85713 3.76476,-3.67201 1.6597,-0.7782 4.62695,-0.81893 6.2319,-0.0855 1.90001,0.86825 3.76604,2.96908 4.37908,4.93008 0.12603,0.40325 0.26753,2.31648 0.31438,4.2516 0.0469,1.9351 0.0877,1.94419 0.0906,2.0349 0.002,0.0908 0.20781,0.16492 0.4552,0.16492 0.2474,0 0.6927,0.24289 0.98956,0.53977 l 0.53976,0.53975 0,4.18888 c 0,3.89858 -0.0884,5.16513 -0.21528,5.40194 -0.43038,0.80421 -1.35936,0.88838 -9.76799,0.88503 -6.10221,-0.002 -8.29596,-0.0729 -8.7039,-0.27919 z m 9.84195,-4.62347 c -0.0744,-0.89654 -0.0367,-1.28489 0.24765,-1.78403 0.4529,-0.87708 0.009,-1.47141 -0.37529,-1.89247 -0.38278,-0.42105 -1.17033,-0.44575 -1.68912,0.0416 -0.51883,0.48741 -0.62322,1.38526 -0.30536,1.85081 0.31786,0.46552 0.20863,0.7211 0.13529,1.63481 l -0.11229,1.39926 1.10142,0 1.1014,0 -0.10373,-1.25004 z m 4.84872,-8.79756 c -0.11749,-3.38123 -0.12603,-3.88976 -0.55026,-4.68452 -1.0843,-2.03158 -3.00018,-3.2261 -5.20058,-3.24245 -2.33847,-0.0173 -4.28302,1.15421 -5.29872,3.19249 -0.54159,1.0868 -0.56685,1.30225 -0.56685,4.83263 l 0,2.04672 5.84551,0 5.84552,0 z"
+       id="path32381-9-0-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscssssssssssscsssscczzzscccccssssscccs"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\synthesis_BC.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600" />
   </g>
