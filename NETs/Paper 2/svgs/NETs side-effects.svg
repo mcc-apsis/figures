@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="NETs side-effects.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\NETs side-effects.png"
+   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\Paper 2\Fig15_side-effects.png"
    inkscape:export-xdpi="400.02213"
    inkscape:export-ydpi="400.02213">
   <defs
@@ -270,7 +270,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.63421633"
-     inkscape:cx="244.23158"
+     inkscape:cx="321.82935"
      inkscape:cy="287.6317"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -279,8 +279,8 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -331,7 +331,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

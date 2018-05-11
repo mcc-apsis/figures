@@ -17,8 +17,8 @@
    version="1.1"
    id="svg4136"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="NETs bibliometric coupling network.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\NETs bibliographic coupling network.png"
+   sodipodi:docname="Fig5_bibliographic coupling network.svg"
+   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\Paper 1\Fig5_bibliographic coupling network.png"
    inkscape:export-xdpi="400.01358"
    inkscape:export-ydpi="400.01358">
   <metadata
@@ -53,8 +53,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.33345764"
-     inkscape:cx="1442.7456"
-     inkscape:cy="307.24069"
+     inkscape:cx="751.50338"
+     inkscape:cy="547.15122"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -35702,15 +35702,6 @@
        inkscape:export-xdpi="400.01358"
        inkscape:export-ydpi="400.01358" />
     <ellipse
-       style="fill:#ffd92f;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4.00153589;stroke-dasharray:none;stroke-opacity:1"
-       cx="-462.46021"
-       class="id_1311"
-       cy="-330.70844"
-       id="circle9944-9"
-       transform="matrix(0.96850704,-0.24898617,-0.24897847,-0.96850902,0,0)"
-       rx="13.600346"
-       ry="13.599334" />
-    <ellipse
        style="fill:#fc8d62;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4.00153589;stroke-dasharray:none;stroke-opacity:1"
        cx="-396.28275"
        class="id_1070"
@@ -35722,32 +35713,6 @@
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\NETs bibliographic coupling network_nopapers.png"
        inkscape:export-xdpi="400.01358"
        inkscape:export-ydpi="400.01358" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="-321.00668"
-       y="397.61801"
-       id="text8238"
-       sodipodi:linespacing="100%"><tspan
-         sodipodi:role="line"
-         id="tspan8240"
-         x="-321.00668"
-         y="397.61801">McDonald et al. 2012</tspan><tspan
-         sodipodi:role="line"
-         x="-321.00668"
-         y="427.61801"
-         id="tspan8242"
-         style="font-style:normal;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-stretch:normal;font-variant:normal;font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%;">Capture of Carbon Dioxide from Air and Flue</tspan><tspan
-         sodipodi:role="line"
-         x="-321.00668"
-         y="457.61801"
-         id="tspan8244"
-         style="font-style:normal;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-stretch:normal;font-variant:normal;font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%;">Gas in the Alkylamine-Appended Metal–Organic </tspan><tspan
-         sodipodi:role="line"
-         x="-321.00668"
-         y="487.61801"
-         id="tspan8246"
-         style="font-style:normal;-inkscape-font-specification:'sans-serif, Normal';font-family:sans-serif;font-weight:normal;font-stretch:normal;font-variant:normal;font-size:27.5px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%;">Framework mmen-Mg2(dobpdc)</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text8040-4"

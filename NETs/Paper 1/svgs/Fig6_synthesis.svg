@@ -15,8 +15,8 @@
    id="svg16735"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="NETs Part 1 Synthesis.svg"
-   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\Paper 1\NETs Part 1 Synthesis.png"
+   sodipodi:docname="Fig6_synthesis.svg"
+   inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\Paper 1\Fig6_synthesis.png"
    inkscape:export-xdpi="600.005"
    inkscape:export-ydpi="600.005">
   <defs
@@ -304,9 +304,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2502642"
-     inkscape:cx="346.23086"
-     inkscape:cy="212.65486"
+     inkscape:zoom="0.88407029"
+     inkscape:cx="295.84127"
+     inkscape:cy="324.68388"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -553,16 +553,18 @@
          y="172.45276">Permanence</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="389.15729"
        y="183.43073"
        id="text32662-5-3"
-       sodipodi:linespacing="118%"
+       sodipodi:linespacing="117.99999%"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\synthesis_BC.png"
        inkscape:export-xdpi="600"
        inkscape:export-ydpi="600"><tspan
          sodipodi:role="line"
-         id="tspan4638">Stable</tspan></text>
+         id="tspan4638"
+         x="389.15729"
+         y="183.43073">Stable</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
