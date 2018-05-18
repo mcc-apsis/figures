@@ -82,9 +82,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="503.35444"
-     inkscape:cy="148.29706"
+     inkscape:zoom="0.7"
+     inkscape:cx="334.69367"
+     inkscape:cy="118.17994"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -933,13 +933,6 @@
        y1="241.73143"
        id="line4975-6" />
     <line
-       y2="150.26691"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="903.30872"
-       x2="895.57098"
-       y1="150.26691"
-       id="line4979-0" />
-    <line
        y2="530.32837"
        style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        x1="273.39462"
@@ -957,20 +950,6 @@
          id="tspan14482"
          x="119.86922"
          y="156.23123">Global carbon budget</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.74999999px;line-height:110%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;display:inline;color-interpolation:auto;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;"
-       x="763.36261"
-       y="156.31583"
-       id="text7895"
-       sodipodi:linespacing="110%"
-       transform="scale(0.99990741,1.0000926)"><tspan
-         sodipodi:role="line"
-         id="tspan15454">Range of annual NETs</tspan><tspan
-         sodipodi:role="line"
-         id="tspan15456">deployment in &quot;likely&quot;</tspan><tspan
-         sodipodi:role="line"
-         id="tspan15458">2°C scenarios</tspan></text>
     <line
        y2="529.33838"
        style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
@@ -985,22 +964,25 @@
        x2="825.04785"
        y1="537.0647"
        id="line4865" />
-    <rect
-       style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient7735-8-3);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect7462-4-8"
-       width="56.011921"
-       height="36.102409"
-       x="-389.20789"
-       y="-727.57727"
-       transform="matrix(0,-1,-1,0,0,0)" />
-    <rect
-       style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8218);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       id="rect7462-4-8-9"
-       width="88.154556"
-       height="35.734577"
-       x="-421.45465"
-       y="-842.91516"
-       transform="matrix(0,-1,-1,0,0,0)" />
+    <g
+       id="g4393">
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="-727.57727"
+         x="-389.20789"
+         height="36.102409"
+         width="56.011921"
+         id="rect7462-4-8"
+         style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient7735-8-3);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+      <rect
+         transform="matrix(0,-1,-1,0,0,0)"
+         y="-842.91516"
+         x="-421.45465"
+         height="35.734577"
+         width="88.154556"
+         id="rect7462-4-8-9"
+         style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:url(#linearGradient8218);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </g>
     <text
        sodipodi:linespacing="110%"
        x="689.84186"
@@ -1138,6 +1120,50 @@
          id="tspan7720"
          x="57.284714"
          y="156.62433">40</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4375"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.00000095px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(25.019306,130.56465)"><flowRegion
+         id="flowRegion4377"><rect
+           id="rect4379"
+           width="284.86301"
+           height="161.6244"
+           x="570.73621"
+           y="469.93759" /></flowRegion><flowPara
+         id="flowPara4381" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="766.64569"
+       y="156.32278"
+       id="text10237"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         id="tspan10239"
+         x="766.64569"
+         y="156.32278">Range of annual NETs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="767.55206"
+       y="178.34396"
+       id="text10241"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         id="tspan10243"
+         x="767.55206"
+         y="178.34396">deployment in &quot;likely&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.75px;line-height:110.00000238%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="766.66858"
+       y="200.2644"
+       id="text10245"
+       sodipodi:linespacing="110%"><tspan
+         sodipodi:role="line"
+         id="tspan10249"
+         x="766.66858"
+         y="200.2644">2°C scenarios</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
