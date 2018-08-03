@@ -400,9 +400,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.80610173"
-     inkscape:cx="206.61774"
-     inkscape:cy="408.47802"
+     inkscape:zoom="1.3186734"
+     inkscape:cx="159.47515"
+     inkscape:cy="288.2157"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -438,7 +438,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -541,7 +541,7 @@
            x="74.296715"
            y="112.92033"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara7795">An outline is drafted by nominated experts and approved by governments. A key challenge is to balance recent scientific trends with information demands from UNFCCC stakeholders.</flowPara></flowRoot>    <flowRoot
+         id="flowPara7795">An outline is drafted by nominated experts and approved by governments. A key challenge is to balance recent scientific trends with information demands from governments.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot5335-0"
        style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -999,13 +999,13 @@
        sodipodi:linespacing="0%"
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.93749976"
-       x="480.42188"
+       x="493.48828"
        y="89.684097"
        id="text5660-8-4-5-2-5-2"><tspan
          sodipodi:role="line"
-         id="tspan6810-2"
-         x="480.42188"
-         y="89.684097">Big-literature surveys</tspan></text>
+         id="tspan17014"
+         x="493.48828"
+         y="89.684097">Evidence mapping</tspan></text>
     <g
        id="g12456"
        transform="translate(-456.18231,-12.52226)">
@@ -1593,14 +1593,12 @@
          y="59.419373">IPCC Assessment Stages</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#4b4b4b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#4b4b4b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="561.83423"
        y="59.558533"
        id="text14297-8"
-       sodipodi:linespacing="117.99999%"><tspan
+       sodipodi:linespacing="118%"><tspan
          sodipodi:role="line"
-         id="tspan14319"
-         x="561.83423"
-         y="59.558533">Big data interventions</tspan></text>
+         id="tspan17012">Data science interventions</tspan></text>
   </g>
 </svg>
