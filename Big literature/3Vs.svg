@@ -10077,9 +10077,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92836783"
-     inkscape:cx="539.21449"
-     inkscape:cy="126.8162"
+     inkscape:zoom="1.3129104"
+     inkscape:cx="435.52697"
+     inkscape:cy="124.29627"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -10100,7 +10100,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -16435,7 +16435,7 @@
    id="flowSpan24060-2-5-7-7">Velocity</flowSpan>: 3,000 papers published each month</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot24028-3-1-8-7-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10279751px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1027979px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        transform="matrix(1.647845,0,0,1.647845,163.85627,726.46756)"><flowRegion
          id="flowRegion24030-5-4-8-5-6"><rect
            id="rect24032-6-0-8-2-8"
@@ -16443,11 +16443,10 @@
            height="46.956299"
            x="142.52621"
            y="388.34473"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10279751px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara14831-0"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10279751px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.10279751px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle"
-   id="flowSpan15163-7">Variety:</flowSpan> In 2017 there were 3,396 unique journals, 28,293 unique keywords and 104,985 authors.</flowPara></flowRoot>    <flowRoot
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.1027979px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr;text-anchor:middle;" /></flowRegion><flowPara
+         id="flowPara19399"><flowSpan
+   style="font-weight:bold"
+   id="flowSpan19401">Variety</flowSpan>: text</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot24028-9-7-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.10279751px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -16473,15 +16472,13 @@
        id="line13899-0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="419.23618"
        y="1343.8163"
        id="text14700-0"
-       sodipodi:linespacing="117.99999%"><tspan
+       sodipodi:linespacing="118%"><tspan
          sodipodi:role="line"
-         id="tspan14702-4"
-         x="419.23618"
-         y="1343.8163">1990</tspan></text>
+         id="tspan19305">1995</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -17620,15 +17617,13 @@
          y="1205.4401">No. authors</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="404.91"
        y="1213.142"
        id="text17862"
-       sodipodi:linespacing="117.99999%"><tspan
+       sodipodi:linespacing="118%"><tspan
          sodipodi:role="line"
-         id="tspan17864"
-         x="404.91"
-         y="1213.142">1,082</tspan></text>
+         id="tspan19397">5,346</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -17648,26 +17643,24 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="405.5527"
        y="1253.1084"
        id="text17862-3"
-       sodipodi:linespacing="117.99999%"><tspan
+       sodipodi:linespacing="118%"><tspan
          sodipodi:role="line"
-         id="tspan18173"
-         x="405.5527"
-         y="1253.1084">238</tspan></text>
+         id="tspan19395">590</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="405.51974"
-       y="1292.1519"
+       x="405.68454"
+       y="1301.2919"
        id="text17862-8"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
-         id="tspan18195"
-         x="405.51974"
-         y="1292.1519">35</tspan></text>
+         id="tspan19313"
+         x="405.68454"
+         y="1301.2919">0.39</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -17682,14 +17675,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="583.19366"
-       y="1291.229"
+       x="597.34406"
+       y="1301.2919"
        id="text17862-8-3"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
-         id="tspan18215"
-         x="583.19366"
-         y="1291.229">28,293</tspan></text>
+         id="tspan19315"
+         x="597.34406"
+         y="1301.2919">0.78</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#d95f02;stroke-width:1.67999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-1)"
        d="m 446.70955,1249.0349 123.97912,0"
@@ -17698,7 +17691,7 @@
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#7570b3;stroke-width:1.67999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend-4)"
-       d="m 446.70955,1288.0784 123.97912,0"
+       d="m 446.70955,1297.2184 123.97912,0"
        id="path6365-4-1-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -17715,15 +17708,19 @@
          y="1243.8912">No. journals</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#7570b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="440.43521"
-       y="1282.1304"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#7570b3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="509.6532"
+       y="1279.2909"
        id="text6396-6-1-59"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
-         id="tspan18274"
-         x="440.43521"
-         y="1282.1304">No. keywords/document</tspan></text>
+         id="tspan19309"
+         x="509.6532"
+         y="1279.2909">No. unique keywords</tspan><tspan
+         sodipodi:role="line"
+         id="tspan19311"
+         x="509.6532"
+         y="1292.5659">per document</tspan></text>
     <g
        id="g19355">
       <rect
