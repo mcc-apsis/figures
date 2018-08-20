@@ -12,8 +12,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="244.45518mm"
-   height="203.07996mm"
-   viewBox="0 0 866.17979 719.57465"
+   height="205.93082mm"
+   viewBox="0 0 866.17979 729.67612"
    id="svg6284"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -2230,7 +2230,7 @@
        x2="1114.2854"
        y2="513.35236"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2.4319579,26.263965)" />
+       gradientTransform="translate(2.4319577,16.162435)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6441"
@@ -2240,7 +2240,7 @@
        x2="1357.0652"
        y2="502.22403"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(2.4319579,26.263965)" />
+       gradientTransform="translate(2.4319577,16.162435)" />
     <marker
        inkscape:stockid="Arrow2Mend"
        orient="auto"
@@ -2581,7 +2581,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
      inkscape:cx="294.63063"
-     inkscape:cy="365.50125"
+     inkscape:cy="372.22931"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -2611,14 +2611,14 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="base"
-     transform="translate(-778.95459,136.94536)">
+     transform="translate(-778.95459,147.04689)">
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ececec;fill-opacity:0.50588223;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.50588223;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect21396-0-7"
        width="866.17981"
-       height="719.57465"
+       height="729.67615"
        x="778.95459"
-       y="-136.94536"
+       y="-147.04689"
        ry="8.9228468"
        rx="7.7869396" />
     <rect
@@ -2627,7 +2627,7 @@
        width="30.809652"
        height="26.769043"
        x="1406.6522"
-       y="-116.61254"
+       y="-133.78513"
        rx="2.2311482"
        ry="2.2311482" />
   </g>
@@ -2635,7 +2635,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-778.95459,136.94536)">
+     transform="translate(-778.95459,147.04689)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -2797,13 +2797,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:117.99999475%;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1415.2638"
-       y="-96.866325"
+       y="-114.03892"
        id="text22801-4"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
          id="tspan22803-0"
          x="1415.2638"
-         y="-96.866325">A</tspan></text>
+         y="-114.03892">A</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#7d7d7d;stroke-width:1.17242324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 797.5353,206.62878 819.2337,0"
@@ -2951,7 +2951,7 @@
          id="tspan4414-7-7">classification?</tspan></text>
     <g
        id="g5989"
-       transform="matrix(0.87428972,0,0,0.81705371,143.56514,-3.2903391)">
+       transform="matrix(0.87428972,0,0,0.81705371,143.56514,-8.3411018)">
       <rect
          transform="matrix(0.86713945,0,0,0.86713945,554.11141,26.557527)"
          rx="14.827077"
@@ -2977,40 +2977,40 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.99912548px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1298.474"
-       y="8.4906301"
+       y="3.4398675"
        id="text7357-2-7"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
          id="tspan4844"
          x="1298.474"
-         y="8.4906301">Albedo</tspan></text>
+         y="3.4398675">Albedo</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:4.59932661;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5162)"
-       d="m 1224.4681,-52.192336 c 3.1092,-0.514056 6.0707,-1.89293 8.4655,-3.94142 2.3948,-2.04849 4.2158,-4.760709 5.2053,-7.752698 1.7243,-5.213777 0.8981,-10.871412 0.4505,-16.344658 -0.2238,-2.736623 -0.3473,-5.498451 0,-8.221797 0.3501,-2.723346 1.1948,-5.423069 2.7691,-7.672709 2.5132,-3.591394 6.8947,-5.794052 11.2763,-5.668822"
+       d="m 1224.4681,-57.243099 c 3.1092,-0.514056 6.0707,-1.89293 8.4655,-3.94142 2.3948,-2.04849 4.2158,-4.760709 5.2053,-7.752698 1.7243,-5.213777 0.8981,-10.871412 0.4505,-16.344658 -0.2238,-2.736623 -0.3473,-5.49845 0,-8.221796 0.3501,-2.723346 1.1948,-5.423069 2.7691,-7.672709 2.5132,-3.59139 6.8947,-5.79405 11.2763,-5.66882"
        id="path5158"
        inkscape:path-effect="#path-effect5160"
-       inkscape:original-d="m 1224.4681,-52.192336 c 0,0 8.1502,-3.150344 13.6708,-11.694118 5.5204,-8.543911 -1.929,-21.690513 3.2224,-32.239164 5.1515,-10.548632 11.2763,-5.668822 11.2763,-5.668822"
+       inkscape:original-d="m 1224.4681,-57.243099 c 0,0 8.1502,-3.150344 13.6708,-11.694118 5.5204,-8.543911 -1.929,-21.690513 3.2224,-32.239163 5.1515,-10.54863 11.2763,-5.66882 11.2763,-5.66882"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5183)"
-       d="m 852.10133,-102.68248 c -1.12831,4.622997 -1.04417,9.536323 0.24176,14.117978 2.19994,7.838205 7.82319,14.426896 14.60303,18.93367 6.77984,4.506773 14.66764,7.092787 22.6291,8.793485 8.48344,1.812202 17.16922,2.675525 25.8434,2.568708"
+       d="m 852.10133,-107.73324 c -1.12831,4.623 -1.04417,9.536321 0.24176,14.117975 2.19994,7.838205 7.82319,14.426897 14.60303,18.93367 6.77984,4.506773 14.66764,7.092787 22.6291,8.793485 8.48344,1.812201 17.16922,2.675525 25.8434,2.568708"
        id="path5179"
        inkscape:path-effect="#path-effect5181"
-       inkscape:original-d="m 852.10133,-102.68248 c 0,0 -8.96604,11.270234 0.24176,14.117978 2.2483,0.695364 23.51933,25.312099 37.23213,27.727155 13.7128,2.415052 25.8434,2.568708 25.8434,2.568708"
+       inkscape:original-d="m 852.10133,-107.73324 c 0,0 -8.96604,11.270231 0.24176,14.117975 2.2483,0.695364 23.51933,25.312099 37.23213,27.727155 13.7128,2.415052 25.8434,2.568708 25.8434,2.568708"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cszc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5162-3)"
-       d="m 1224.9825,-50.5412 c 3.0607,0.642577 5.954,2.066309 8.3305,4.099206 2.3766,2.032897 4.2313,4.670753 5.3403,7.594913 2.1706,5.723473 1.4235,12.07024 1.0879,18.182279 -0.1678,3.056019 -0.2233,6.13801 0.2597,9.160282 0.483,3.0222716 1.5302,6.0014041 3.39,8.4321282 2.6456,3.457643 6.9231,5.608027 11.2763,5.668821"
+       d="m 1224.9825,-55.591963 c 3.0607,0.642577 5.954,2.066309 8.3305,4.099206 2.3766,2.032897 4.2313,4.670753 5.3403,7.594913 2.1706,5.723473 1.4235,12.070241 1.0879,18.182279 -0.1678,3.056019 -0.2233,6.13801 0.2597,9.160282 0.483,3.022272 1.5302,6.001404 3.39,8.4321285 2.6456,3.457643 6.9231,5.608027 11.2763,5.668821"
        id="path5158-1"
        inkscape:path-effect="#path-effect5160-1"
-       inkscape:original-d="m 1224.9825,-50.5412 c 0,0 8.1502,3.15034 13.6708,11.694119 5.5204,8.54391 -0.4138,25.226044 4.7376,35.7746892 5.1515,10.548641 11.2763,5.668821 11.2763,5.668821"
+       inkscape:original-d="m 1224.9825,-55.591963 c 0,0 8.1502,3.15034 13.6708,11.694119 5.5204,8.54391 -0.4138,25.226044 4.7376,35.7746895 5.1515,10.548641 11.2763,5.668821 11.2763,5.668821"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzc" />
     <g
        id="g13196"
-       transform="translate(-7.0710678,6.7059827)">
+       transform="translate(-7.0710678,1.65522)">
       <g
          transform="matrix(1.0207384,0,0,0.79266258,-38.132058,-31.921888)"
          id="g5994">
@@ -3049,7 +3049,7 @@
     </g>
     <g
        id="g5999"
-       transform="matrix(1.0207384,0,0,0.79266258,-41.896435,-17.038313)">
+       transform="matrix(1.0207384,0,0,0.79266258,-41.896435,-22.089076)">
       <rect
          transform="matrix(0.86713945,0,0,0.86713945,397.63996,-24.488526)"
          rx="14.827077"
@@ -3075,24 +3075,24 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.99914932px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1133.5874"
-       y="-45.948284"
+       y="-50.999046"
        id="text7357-2"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
          id="tspan7359-9"
          x="1133.5874"
-         y="-45.948284">Deforestation</tspan></text>
+         y="-50.999046">Deforestation</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#TriangleInS);marker-end:url(#marker5315)"
-       d="m 1034.245,-50.358333 62.1428,0"
+       d="m 1034.245,-55.409096 62.1428,0"
        id="path5311"
        inkscape:path-effect="#path-effect5313"
-       inkscape:original-d="m 1034.245,-50.358333 62.1428,0"
+       inkscape:original-d="m 1034.245,-55.409096 62.1428,0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <g
        id="g19765"
-       transform="translate(-16.667517,0)">
+       transform="translate(-16.667517,-5.0507627)">
       <g
          transform="matrix(0.84249619,0,0,0.79266258,131.12301,-17.384051)"
          id="g6004">
@@ -3131,15 +3131,15 @@
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:5.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5183-2)"
-       d="m 852.16464,-2.160966 c 0.0534,-3.7005864 0.67936,-7.3923704 1.8489,-10.903688 2.76433,-8.299321 8.54016,-15.419501 15.60553,-20.577095 7.06537,-5.157594 15.37375,-8.438533 23.89853,-10.400241 6.64645,-1.52947 13.47059,-2.285334 20.29064,-2.247459"
+       d="m 852.16464,-7.2117287 c 0.0534,-3.7005863 0.67936,-7.3923703 1.8489,-10.9036883 2.76433,-8.299321 8.54016,-15.419501 15.60553,-20.577095 7.06537,-5.157594 15.37375,-8.438533 23.89853,-10.400241 6.64645,-1.52947 13.47059,-2.285334 20.29064,-2.247459"
        id="path5179-6"
        inkscape:path-effect="#path-effect5181-4"
-       inkscape:original-d="m 852.16464,-2.160966 c 0,0 -7.3589,-8.055945 1.8489,-10.903688 2.2483,-0.695364 25.79127,-28.562276 39.50406,-30.977336 13.7128,-2.41505 20.29064,-2.247459 20.29064,-2.247459"
+       inkscape:original-d="m 852.16464,-7.2117287 c 0,0 -7.3589,-8.0559453 1.8489,-10.9036883 2.2483,-0.695364 25.79127,-28.562276 39.50406,-30.977336 13.7128,-2.41505 20.29064,-2.247459 20.29064,-2.247459"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cszc" />
     <g
        id="g19946"
-       transform="matrix(0.79581182,0,0,1,163.87557,0)">
+       transform="matrix(0.79581182,0,0,1,163.87557,-5.0507627)">
       <path
          inkscape:connector-curvature="0"
          id="rect4405-7-8"
@@ -3169,20 +3169,20 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.99912548px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="813.87494"
-       y="-107.01715"
+       y="-112.06792"
        id="text7357-2-9"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
          id="tspan19944"
          x="813.87494"
-         y="-107.01715">Pop. growth</tspan></text>
+         y="-112.06792">Pop. growth</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#a0a0a0;stroke-width:0.94768274;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.84304829, 2.84304829;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6362"
        width="353.60568"
        height="66.217308"
        x="902.25714"
-       y="-83.178932"
+       y="-88.229698"
        rx="13.125742"
        ry="9.1515684" />
     <path
@@ -3354,7 +3354,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g9975"
-       transform="matrix(0.74536817,0,0,1.0288461,192.4128,2.7711071)">
+       transform="matrix(0.74536817,0,0,1.0288461,192.4128,-2.2796556)">
       <rect
          transform="matrix(0.98173448,0,0,0.67803511,-17.044438,22.427058)"
          rx="19.892286"
@@ -3380,13 +3380,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.99912548px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
        x="813.9931"
-       y="16.143229"
+       y="11.092465"
        id="text7357-2-9-1"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
          id="tspan4836"
          x="813.9931"
-         y="16.143229">Urbanisation</tspan></text>
+         y="11.092465">Urbanisation</tspan></text>
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        d="m 853.71749,497.37736 c -4.99998,5.5e-4 -9.05292,4.06603 -9.05276,9.08076 -1.5e-4,5.01472 4.05279,9.08019 9.05276,9.08074 5.00096,8.6e-4 9.05546,-4.06502 9.05531,-9.08074 1.6e-4,-5.01573 -4.05434,-9.08162 -9.05531,-9.08076 z"
@@ -3503,10 +3503,10 @@
    id="flowSpan9961">deforestation</flowSpan>, followed by </flowPara></flowRoot>    </a>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker7474-1);marker-end:url(#marker5315-4-8);shape-rendering:crispEdges"
-       d="m 838.17481,-90.847894 0,14.531222 0,52.904364 0,14.252415"
+       d="m 838.17481,-95.898657 0,14.531222 0,52.904364 0,14.252415"
        id="path5311-8-0"
        inkscape:path-effect="#path-effect5313-7-6"
-       inkscape:original-d="m 838.17481,-90.847894 c 0,0 0.69067,7.427122 0,14.531222 -0.69069,7.1041 -1.56095,46.125984 0,52.904364 1.56093,6.77838 0,14.252415 0,14.252415"
+       inkscape:original-d="m 838.17481,-95.898657 c 0,0 0.69067,7.427122 0,14.531222 -0.69069,7.1041 -1.56095,46.125984 0,52.904364 1.56093,6.77838 0,14.252415 0,14.252415"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czzc" />
     <rect
@@ -3573,7 +3573,7 @@
        xml:space="preserve"
        id="flowRoot15471"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(758.83511,-141.19458)"><flowRegion
+       transform="translate(758.83511,-158.36717)"><flowRegion
          id="flowRegion15473"><rect
            id="rect15475"
            width="184.85788"
@@ -3584,7 +3584,7 @@
          id="flowPara15481">Network of causal statements</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot15471-5"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#6a6a6a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
        transform="translate(758.66421,42.147471)"><flowRegion
          id="flowRegion15473-1"><rect
            id="rect15475-8"
@@ -3592,7 +3592,7 @@
            height="30.304575"
            x="686.90375"
            y="23.074472"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr;text-anchor:start;fill:#6a6a6a;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#6a6a6a;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara18968">Select cause-effect</flowPara><flowPara
          id="flowPara18970">relationship</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -3621,17 +3621,17 @@
          id="flowPara15576">Assessment of evidence</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot16652"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       transform="translate(776.52264,-136.94536)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(776.52264,-154.11795)"><flowRegion
          id="flowRegion16654"><rect
            id="rect16656"
-           width="208.09145"
-           height="119.198"
+           width="216.17265"
+           height="135.36044"
            x="636.39612"
            y="58.934887"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara18986">IPCC authors are tasked with investigating the drivers of deforestation. A large set of journal articles on deforestation is assembled. A machine learning algorithm automatically extracts the causal statements within, enabling a rapid visualisation of causal links.</flowPara></flowRoot>    <flowRoot
-       transform="translate(776.52264,42.673798)"
+         id="flowPara18986">Understanding the drivers of deforestation requires extracting causal statements hidden across thousands of publications. IPCC authors tasked to do so can apply machine learning to automatically extract causal statements from a vast body of relevant text. These are then situated within a wider network of associated drivers.</flowPara></flowRoot>    <flowRoot
+       transform="translate(776.52264,44.694103)"
        xml:space="preserve"
        id="flowRoot16652-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"><flowRegion
@@ -3642,7 +3642,7 @@
            x="636.39612"
            y="58.934887"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara18972">A specific cause-effect relationship of interest is selected by authors, based on theoretical relevance, or practical criteria - i.e. how many documents examine this relationship, by what methods, in which locations? </flowPara></flowRoot>    <text
+         id="flowPara20794">Authors can select specific causal relationships of interest for detailed review. Text mining rapidly makes available all the relevant documents.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="1051.0695"
@@ -3654,7 +3654,7 @@
          x="1051.0695"
          y="115.5508">27 documents</tspan></text>
     <flowRoot
-       transform="translate(775.05332,206.02776)"
+       transform="translate(775.05332,202.9973)"
        xml:space="preserve"
        id="flowRoot16652-4-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"><flowRegion
@@ -3665,7 +3665,7 @@
            x="636.39612"
            y="58.934887"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara17390">Statements extracted from the documents are automatically qualified in terms of the strength and direction of the relationship (positive, negative, no). These are reviewed and evaluated by authors, based on easy access to the original source and the context of the statements.</flowPara></flowRoot>    <flowRoot
+         id="flowPara17390">Statements extracted from the documents are automatically qualified in terms of the strength and direction of the relationship (positive, negative, no). These are reviewed and evaluated by authors, in the context of the original study and its features.</flowPara></flowRoot>    <flowRoot
        transform="translate(775.25107,427.25118)"
        xml:space="preserve"
        id="flowRoot16652-4-63"
@@ -3679,7 +3679,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#4e4e4e;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara17425">The combined machine and human reviewed statements are aggregated, enabling a transparent and reproducible assessment of uncertainty.</flowPara></flowRoot>    <g
        id="g20650"
-       transform="matrix(1,0,0,0.94820311,5,-2.609)">
+       transform="matrix(1,0,0,0.94820311,5,-7.6597627)">
       <path
          sodipodi:nodetypes="czcc"
          inkscape:connector-curvature="0"
@@ -3698,7 +3698,7 @@
          style="fill:none;fill-rule:evenodd;stroke:#a0a0a0;stroke-width:3.08085012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;shape-rendering:crispEdges" />
     </g>
     <g
-       transform="translate(8.4182415,128.12246)"
+       transform="translate(8.4182415,123.0717)"
        style="shape-rendering:crispEdges"
        id="g20381-7">
       <rect
@@ -3726,17 +3726,17 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.99912548px;line-height:89.99999762%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
        x="960.28906"
-       y="16.521372"
+       y="11.470609"
        id="text7357-2-5-0-2-8"
        sodipodi:linespacing="89.999998%"><tspan
          sodipodi:role="line"
          id="tspan20541"
          x="960.28906"
-         y="16.521372">Other</tspan></text>
+         y="11.470609">Other</tspan></text>
     <g
        style="shape-rendering:crispEdges"
        id="g20381"
-       transform="translate(5,1.767767)">
+       transform="translate(5,-3.2829957)">
       <rect
          transform="matrix(0.61362717,0,0,0.53707062,420.80445,-105.05338)"
          rx="21.38722"
@@ -3762,12 +3762,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.99912548px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#575757;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;shape-rendering:crispEdges"
        x="959.83258"
-       y="-111.03903"
+       y="-116.0898"
        id="text7357-2-5-0"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
          id="tspan4769-3"
          x="959.83258"
-         y="-111.03903">Logging</tspan></text>
+         y="-116.0898">Logging</tspan></text>
   </g>
 </svg>
