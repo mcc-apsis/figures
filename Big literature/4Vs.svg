@@ -21,6 +21,29 @@
    inkscape:export-ydpi="300.01077">
   <defs
      id="defs4">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9896"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9150"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9152"
+         style="fill:#636363;fill-opacity:1;fill-rule:evenodd;stroke:#636363;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9076"
+       is_visible="true" />
     <marker
        inkscape:stockid="DotS"
        orient="auto"
@@ -74,7 +97,8 @@
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="Arrow2Mend">
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
       <path
          inkscape:connector-curvature="0"
          transform="scale(-0.6,-0.6)"
@@ -10591,9 +10615,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="478.38796"
-     inkscape:cy="141.59291"
+     inkscape:zoom="0.87885424"
+     inkscape:cx="472.41392"
+     inkscape:cy="157.84057"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -10606,7 +10630,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true" />
   <metadata
      id="metadata7">
@@ -17183,6 +17207,14 @@
        inkscape:path-effect="#path-effect23373-7"
        inkscape:original-d="m 320.95143,1771.7265 21.625,0"
        inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9150)"
+       d="m 885.64341,1660.999 c 7.51351,13.1261 16.29062,25.5285 26.17048,36.9799 9.47549,10.9827 19.96468,21.0905 31.29069,30.1529"
+       id="path9894"
+       inkscape:path-effect="#path-effect9896"
+       inkscape:original-d="m 885.64341,1660.999 c 0,0 17.36145,26.041 26.17048,36.9799 8.80904,10.9389 31.29069,30.1529 31.29069,30.1529"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc" />
   </g>
   <g
      inkscape:groupmode="layer"
