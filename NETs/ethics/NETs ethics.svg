@@ -43,9 +43,9 @@
      inkscape:window-height="1027"
      id="namedview6309"
      showgrid="false"
-     inkscape:zoom="0.87064676"
-     inkscape:cx="431.92389"
-     inkscape:cy="1301.1231"
+     inkscape:zoom="0.61564023"
+     inkscape:cx="422.84274"
+     inkscape:cy="1109.8735"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -1988,7 +1988,10 @@
      transform="translate(-238.52969,1012.7885)">
     <g
        id="g6053"
-       transform="translate(0,21.22049)">
+       transform="translate(0,21.22049)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_hubris.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022">
       <rect
          y="18.544586"
          x="1191.1149"
@@ -2056,14 +2059,20 @@
        width="339.22528"
        height="40"
        x="1191.1147"
-       y="-988.59479" />
+       y="-988.59479"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;"
        x="1210.5697"
        y="-958.86816"
        id="text5151"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022"><tspan
          sodipodi:role="line"
          id="tspan5561">Moral hazard</tspan></text>
     <rect
@@ -2072,14 +2081,20 @@
        width="40.000004"
        height="40.000004"
        x="1151.4111"
-       y="-988.59479" />
+       y="-988.59479"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="1171.4795"
        y="-956.76855"
        id="text28836"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022"><tspan
          y="-956.76855"
          x="1171.4795"
          sodipodi:role="line"
@@ -2126,59 +2141,55 @@
        width="100%"
        height="100%"
        transform="matrix(1.6263696,0,0,1.6263696,57.788393,-587.42536)" />
-    <g
-       id="g5566"
-       transform="translate(0,24.235564)">
-      <rect
-         y="-498.77322"
-         x="1196.8074"
-         height="40"
-         width="333.48239"
-         id="rect5149-6"
-         style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65183145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <text
-         sodipodi:linespacing="100%"
-         id="text5151-0"
-         y="-469.04666"
-         x="1214.5414"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-         xml:space="preserve"><tspan
-           id="tspan5491"
-           sodipodi:role="line"
-           x="1214.5414"
-           y="-469.04666">A risky bet</tspan></text>
-      <rect
-         y="-498.77322"
-         x="1155.3828"
-         height="40.000004"
-         width="40.000004"
-         id="rect28834-35"
-         style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.68059698;fill-rule:nonzero;stroke:none;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
-      <text
-         sodipodi:linespacing="100%"
-         id="text28836-4"
-         y="-466.94705"
-         x="1175.4512"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-         xml:space="preserve"><tspan
-           id="tspan5481"
-           sodipodi:role="line"
-           x="1175.4512"
-           y="-466.94705">B</tspan></text>
-      <flowRoot
-         transform="translate(30.054355,-528.59367)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-         id="flowRoot6569-9"
-         xml:space="preserve"><flowRegion
-           id="flowRegion6571-8"><rect
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start"
-             y="83.283409"
-             x="1121.0304"
-             height="437.28976"
-             width="378.43924"
-             id="rect6573-2" /></flowRegion><flowPara
-           id="flowPara5481">Scaling up NETs faces great social and technical challenges. As of 2018, three major BECCS demonstration plants exist. Yet a typical 2°C scenario requires the planning, funding, construction and operation of more than 50,000 plants already by 2040, and an additional 100,000 by 2050. From an ethical perspective it is significant that the collateral in this bet, future generations, have no say in the terms of the gamble. </flowPara></flowRoot>    </g>
+    <rect
+       style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.65183145;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect5149-6"
+       width="333.48239"
+       height="40"
+       x="1196.8074"
+       y="-474.53766" />
     <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       x="1214.5414"
+       y="-444.8111"
+       id="text5151-0"
+       sodipodi:linespacing="100%"><tspan
+         y="-444.8111"
+         x="1214.5414"
+         sodipodi:role="line"
+         id="tspan5491">A risky bet</tspan></text>
+    <rect
+       style="color:#000000;font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0.68059698;fill-rule:nonzero;stroke:none;stroke-width:3.29999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       id="rect28834-35"
+       width="40.000004"
+       height="40.000004"
+       x="1155.3828"
+       y="-474.53766" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;color-interpolation:auto;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       x="1175.4512"
+       y="-442.71149"
+       id="text28836-4"
+       sodipodi:linespacing="100%"><tspan
+         y="-442.71149"
+         x="1175.4512"
+         sodipodi:role="line"
+         id="tspan5481">B</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6569-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       transform="translate(30.054355,-504.35811)"><flowRegion
+         id="flowRegion6571-8"><rect
+           id="rect6573-2"
+           width="378.43924"
+           height="437.28976"
+           x="1121.0304"
+           y="83.283409"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:114.99999762%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:justify;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara5481">Scaling up NETs faces great social and technical challenges. As of 2018, three major BECCS demonstration plants exist. Yet a typical 2°C scenario requires the planning, funding, construction and operation of more than 50,000 plants already by 2040, and an additional 100,000 by 2050. From an ethical perspective it is significant that the collateral in this bet, future generations, have no say in the terms of the gamble. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        x="257.78818"
@@ -2556,42 +2567,42 @@
        sodipodi:linespacing="109%"
        id="text5931-6"
        y="-621.50183"
-       x="400.72116"
+       x="394.9487"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022"><tspan
          y="-621.50183"
-         x="400.72116"
+         x="394.9487"
          id="tspan5933-2"
          sodipodi:role="line">2020</tspan></text>
     <text
        sodipodi:linespacing="109%"
        id="text5935-5"
        y="-621.50183"
-       x="491.13211"
+       x="480.80423"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022"><tspan
          y="-621.50183"
-         x="491.13211"
+         x="480.80423"
          id="tspan5937-5"
          sodipodi:role="line">2030</tspan></text>
     <text
        sodipodi:linespacing="109%"
        id="text5939-9"
        y="-621.50183"
-       x="581.54309"
+       x="566.65973"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022"><tspan
          y="-621.50183"
-         x="581.54309"
+         x="566.65973"
          id="tspan5941-0"
          sodipodi:role="line">2040</tspan></text>
     <text
@@ -2669,20 +2680,6 @@
          id="tspan15080"
          x="816.20142"
          y="289.82187">and industry (GtCO₂/yr)</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:105.99999428%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="524.72827"
-       y="-798.10291"
-       id="text5272"
-       sodipodi:linespacing="105.99999%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
-       inkscape:export-xdpi="400.022"
-       inkscape:export-ydpi="400.022"><tspan
-         y="-798.10291"
-         x="524.72827"
-         sodipodi:role="line"
-         id="tspan11758">9.1 GtCO₂</tspan></text>
     <text
        sodipodi:linespacing="108%"
        id="text5919-3-9-7"
@@ -10133,14 +10130,14 @@
        sodipodi:linespacing="109%"
        id="text5931-6-7"
        y="-621.50183"
-       x="832.48724"
+       x="837.04443"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022"><tspan
          y="-621.50183"
-         x="832.48724"
+         x="837.04443"
          id="tspan5933-2-8"
          sodipodi:role="line">2020</tspan></text>
     <text
@@ -10161,29 +10158,44 @@
        sodipodi:linespacing="109%"
        id="text5939-9-6"
        y="-621.50183"
-       x="1013.6034"
+       x="1009.0462"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:109.00000334%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
        xml:space="preserve"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022"><tspan
          y="-621.50183"
-         x="1013.6034"
+         x="1009.0462"
          id="tspan5941-0-6"
          sodipodi:role="line">2040</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.48962784px;line-height:105.99999428%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="527.28894"
+       y="-777.73645"
+       id="text5272"
+       sodipodi:linespacing="105.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022"
+       transform="scale(0.97448139,1.0261869)"><tspan
+         y="-777.73645"
+         x="527.28894"
+         sodipodi:role="line"
+         id="tspan11758">9.1 GtCO₂</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path4404"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67a9cf;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       d="m 332.51149,-908.02181 0.0365,-0.0314 45.26382,15.55947 45.26381,30.40943 45.26382,32.42234 45.26382,37.79835 45.26382,40.48733 45.26382,29.75373 45.26386,32.05317 45.26377,33.37881 0.0355,0.0209"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67a9cf;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 331.30151,-908.02181 0.0347,-0.0314 42.98316,15.55947 42.98314,30.40943 42.98316,32.42234 42.98315,37.79835 42.98316,40.48733 42.98316,29.75373 42.98319,32.05317 42.98311,33.37881 0.0337,0.0209"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
     <path
        inkscape:connector-curvature="0"
        id="path4492"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef8a62;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       d="m 332.51149,-908.02181 0.0365,-0.0314 45.26382,-9.15685 45.26381,-0.60772 45.26382,6.54712 45.26382,14.66512 45.26382,30.76533 45.26382,41.56386 45.26386,47.09182 45.26377,56.38898 0.0355,0.0473"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef8a62;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 331.30151,-908.02181 0.0347,-0.0314 42.98316,-9.15685 42.98314,-0.60772 42.98316,6.54712 42.98315,14.66512 42.98316,30.76533 42.98316,41.56386 42.98319,47.09182 42.98311,56.38898 0.0337,0.0473"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
@@ -10191,8 +10203,8 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4230"
-       d="m 423.06186,-643.94611 0,-8.71065"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 417.28941,-643.94611 0,-8.71065"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
@@ -10200,8 +10212,8 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4234"
-       d="m 513.47282,-643.94611 0,-8.71065"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 503.14492,-643.94611 0,-8.71065"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
@@ -10209,49 +10221,64 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4238"
-       d="m 603.8838,-643.94611 0,-8.71065"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 589.00045,-643.94611 0,-8.71065"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
     <line
        id="line4222"
        y1="-643.94604"
-       x2="694.29474"
-       x1="332.65091"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       y2="-643.94604" />
+       x2="674.85596"
+       x1="331.4339"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       y2="-643.94604"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <line
        id="line4224"
        y1="-989.32709"
-       x2="694.2948"
-       x1="332.65091"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       y2="-989.32709" />
+       x2="674.85602"
+       x1="331.4339"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       y2="-989.32709"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4248"
-       d="m 423.06187,-989.32714 0,8.71065"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision" />
+       d="m 417.28941,-989.32714 0,8.71065"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4252"
-       d="m 513.47283,-989.32714 0,8.71065"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision" />
+       d="m 503.14493,-989.32714 0,8.71065"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4256"
-       d="m 603.88381,-989.32714 0,8.71065"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision" />
+       d="m 589.00046,-989.32714 0,8.71065"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <line
        id="line4300"
        y1="-643.94617"
-       x2="332.65091"
-       x1="332.65091"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x2="331.4339"
+       x1="331.4339"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        y2="-989.32727"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
@@ -10260,8 +10287,8 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4308"
-       d="m 332.65089,-759.07313 3.50697,0"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 331.43389,-759.07313 3.33026,0"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
@@ -10269,44 +10296,44 @@
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="line4312"
-       d="m 332.65089,-874.20019 3.50697,0"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       d="m 331.43389,-874.20019 3.33026,0"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
     <line
        id="line4302"
        y1="-643.94617"
-       x2="694.80084"
-       x1="694.80084"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x2="675.33655"
+       x1="675.33655"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
        y2="-989.32727"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
     <g
        id="g8156"
-       transform="matrix(0.44303911,0,0,0.8476996,256.39583,-139.23798)"
-       style="stroke-width:1.63176644"
+       transform="matrix(0.42071613,0,0,0.8476996,259.02102,-139.23798)"
+       style="stroke-width:1.67449725"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022">
       <path
-         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.63176644;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.67449725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
          d="m 988.54028,-731.1967 -7.9142,0"
          id="line4322"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <path
-         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.63176644;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.67449725;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
          d="m 988.54028,-867.00785 -7.9142,0"
          id="line4326"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
     </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:12.00000005, 12.00000005;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 514.85011,-791.86715 0,-104.23491"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:12.00000006, 12.00000006;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 504.45281,-791.86715 0,-104.23491"
        id="path5223"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -10314,8 +10341,8 @@
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-       d="m 517.54781,-791.83859 -5.4614,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m 507.01458,-791.83859 -5.18622,0"
        id="path5225"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -10323,8 +10350,8 @@
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
     <path
-       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       d="m 517.54781,-896.07611 -5.4614,0"
+       style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;display:inline;color-interpolation:auto;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+       d="m 507.01458,-896.07611 -5.18622,0"
        id="path5225-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
@@ -10347,174 +10374,11 @@
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022" />
-    <line
-       y2="-643.81287"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="1126.7849"
-       y1="-643.81287"
-       id="line5615" />
-    <line
-       y2="-988.79871"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="1126.7849"
-       y1="-988.79871"
-       id="line5617" />
-    <line
-       y2="-647.90369"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="763.98694"
-       y1="-643.81287"
-       id="line5619" />
-    <line
-       y2="-647.90369"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1126.7849"
-       y1="-643.81287"
-       id="line5635" />
-    <line
-       y2="-984.70782"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="763.98694"
-       y1="-988.79871"
-       id="line5637" />
-    <line
-       y2="-984.70782"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1126.7849"
-       y1="-988.79871"
-       id="line5653" />
-    <line
-       y2="-988.79871"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="763.98694"
-       y1="-643.81287"
-       id="line5693" />
-    <line
-       y2="-988.79871"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1126.7849"
-       y1="-643.81287"
-       id="line5695" />
-    <line
-       y2="-666.81195"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="767.61523"
-       y1="-666.81195"
-       id="line5697" />
-    <line
-       y2="-758.80811"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="767.61523"
-       y1="-758.80811"
-       id="line5701" />
-    <line
-       y2="-850.80438"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="767.61523"
-       y1="-850.80438"
-       id="line5705" />
-    <line
-       y2="-942.8006"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="767.61523"
-       y1="-942.8006"
-       id="line5709" />
-    <line
-       y2="-988.79871"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="763.98694"
-       x2="767.61523"
-       y1="-988.79871"
-       id="line5711" />
-    <line
-       y2="-666.81195"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1123.1578"
-       y1="-666.81195"
-       id="line5713" />
-    <line
-       y2="-758.80811"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1123.1578"
-       y1="-758.80811"
-       id="line5717" />
-    <line
-       y2="-850.80438"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1123.1578"
-       y1="-850.80438"
-       id="line5721" />
-    <line
-       y2="-942.8006"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1123.1578"
-       y1="-942.8006"
-       id="line5725" />
-    <line
-       y2="-988.79871"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="1126.7849"
-       x2="1123.1578"
-       y1="-988.79871"
-       id="line5727" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 763.98698,-666.81195 45.34975,0 45.34975,-0.37938 45.34974,-2.42153 45.34976,-9.70179 45.34974,-26.83588 45.34968,-54.95155 45.3498,-86.46258 45.3497,-109.13895"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef8a62;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path5763-3" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 763.98698,-666.81195 45.34975,0 45.34975,0 45.34974,0 45.34976,0 45.34974,0 45.34968,0 45.3498,0 45.3497,0"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67a9cf;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path5765-1" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="line4230-1"
-       d="m 854.82792,-644.66058 0,-8.71062"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
-       inkscape:export-xdpi="400.022"
-       inkscape:export-ydpi="400.022" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="line4234-9"
-       d="m 945.38598,-644.66058 0,-8.71062"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
-       inkscape:export-xdpi="400.022"
-       inkscape:export-ydpi="400.022" />
-    <path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="line4238-3"
-       d="m 1035.9441,-644.66058 0,-8.71062"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999988;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
-       inkscape:export-xdpi="400.022"
-       inkscape:export-ydpi="400.022" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:100%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;display:inline;color-interpolation:auto;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
-       x="817.34277"
-       y="732.98535"
+       x="808.409"
+       y="707.7168"
        id="text24369-7"
        sodipodi:linespacing="100%"
        transform="matrix(0,-1,1,0,0,0)"
@@ -10522,9 +10386,13 @@
        inkscape:export-xdpi="400.022"
        inkscape:export-ydpi="400.022"><tspan
          sodipodi:role="line"
-         id="tspan6494"
-         x="817.34277"
-         y="732.98535">Negative emissions (GtCO₂/yr)</tspan></text>
+         id="tspan5572"
+         x="808.409"
+         y="707.7168">CO₂ emissions from carbon capture</tspan><tspan
+         sodipodi:role="line"
+         id="tspan5574"
+         x="808.409"
+         y="732.7168">and storage (biomass) (GtCO₂/yr)</tspan></text>
     <text
        sodipodi:linespacing="109%"
        id="text6019-8"
@@ -10581,23 +10449,250 @@
          id="tspan6610"
          x="746.91467"
          y="-935.3299">6</tspan></text>
+    <line
+       y2="-643.81287"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="1117.6562"
+       y1="-643.81287"
+       id="line5615"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-988.79871"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="1117.6562"
+       y1="-988.79871"
+       id="line5617"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-647.90369"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="773.11554"
+       y1="-643.81287"
+       id="line5619"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-647.90369"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1117.6562"
+       y1="-643.81287"
+       id="line5635"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-984.70782"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="773.11554"
+       y1="-988.79871"
+       id="line5637"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-984.70782"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1117.6562"
+       y1="-988.79871"
+       id="line5653"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-988.79871"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="773.11554"
+       y1="-643.81287"
+       id="line5693"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-988.79871"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1117.6562"
+       y1="-643.81287"
+       id="line5695"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-666.81195"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="776.56128"
+       y1="-666.81195"
+       id="line5697"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-758.80811"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="776.56128"
+       y1="-758.80811"
+       id="line5701"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-850.80438"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="776.56128"
+       y1="-850.80438"
+       id="line5705"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-942.8006"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="776.56128"
+       y1="-942.8006"
+       id="line5709"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-988.79871"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="773.11554"
+       x2="776.56128"
+       y1="-988.79871"
+       id="line5711"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-666.81195"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1114.2118"
+       y1="-666.81195"
+       id="line5713"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-758.80811"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1114.2118"
+       y1="-758.80811"
+       id="line5717"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-850.80438"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1114.2118"
+       y1="-850.80438"
+       id="line5721"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-942.8006"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1114.2118"
+       y1="-942.8006"
+       id="line5725"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <line
+       y2="-988.79871"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.66670007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="1117.6562"
+       x2="1114.2118"
+       y1="-988.79871"
+       id="line5727"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 773.1156,-666.81195 43.0676,0 43.06759,-0.37938 43.06759,-2.42153 43.0676,-9.70179 43.06759,-26.83588 43.06753,-54.95155 43.0676,-86.46258 43.0676,-109.13895"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ef8a62;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path5763-3"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 773.1156,-666.81195 43.0676,0 43.06759,0 43.06759,0 43.0676,0 43.06759,0 43.06753,0 43.0676,0 43.0676,0"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#67a9cf;stroke-width:3.99999976;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path5765-1"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="line4230-1"
+       d="m 859.38511,-644.66058 0,-8.71062"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="line4234-9"
+       d="m 945.38598,-644.66058 0,-8.71062"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="line4238-3"
+       d="m 1031.3869,-644.66058 0,-8.71062"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:0.99999994;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022" />
     <g
+       style="stroke-width:1.02615309"
        id="g6796"
-       transform="translate(-11.907705,-6.1525261)">
+       transform="matrix(0.94967656,0,0,1,36.266607,-6.1525261)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\NETs\slide pieces\ethics_moral_hazard.png"
+       inkscape:export-xdpi="400.022"
+       inkscape:export-ydpi="400.022">
       <path
-         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.02615309;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
          d="m 866.88266,-981.64618 0,8.7107"
          id="line4248-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <path
-         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.02615309;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
          d="m 957.29362,-981.64618 0,8.7107"
          id="line4252-6"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <path
-         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;display:inline;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#262626;stroke-width:1.02615309;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
          d="m 1047.7046,-981.64618 0,8.7107"
          id="line4256-5"
          inkscape:connector-curvature="0"
