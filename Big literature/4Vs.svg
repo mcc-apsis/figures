@@ -10616,8 +10616,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87885424"
-     inkscape:cx="472.41392"
-     inkscape:cy="294.38198"
+     inkscape:cx="580.05564"
+     inkscape:cy="228.73242"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -16874,18 +16874,18 @@
            y="-57.086166"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:118%;font-family:Dialog;-inkscape-font-specification:'Dialog, Italic';text-align:center;writing-mode:lr;text-anchor:middle;" /></flowRegion><flowPara
          id="flowPara7571">the representativeness of the literature assessed</flowPara></flowRoot>    <flowRoot
-       transform="translate(703.80689,1504.8933)"
+       transform="translate(696.7583,1504.8933)"
        xml:space="preserve"
        id="flowRoot14475-7-2-8-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion14477-1-0-2-2"><rect
            id="rect14479-9-6-5-0"
-           width="236.52931"
-           height="73.915428"
+           width="251.32129"
+           height="88.70742"
            x="8.6234646"
            y="364.94156"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara18177">Risk of selection bias increases as the proportion of literature captured by scientific assessments declines </flowPara></flowRoot>    <path
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara7578">Risk of selection bias increases as the proportion (and representativeness) of literature captured by assessment declines </flowPara></flowRoot>    <path
        style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.6496346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 945.95771,1816.9695 -184.0847,0 0,-175.0845"
        id="path19332-1-1-3-6"
@@ -17192,14 +17192,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-140.11224"
+       x="-171.39845"
        y="1825.2577"
        id="text23928"
        sodipodi:linespacing="117.99999%"><tspan
          sodipodi:role="line"
-         id="tspan23932"
-         x="-140.11224"
-         y="1825.2577">505,432 current publications</tspan></text>
+         id="tspan7576"
+         x="-171.39845"
+         y="1825.2577">505,432 current publications (1990-2017)</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4,2;stroke-dashoffset:0;stroke-opacity:1"
        d="m 320.95143,1771.7265 21.625,0"
