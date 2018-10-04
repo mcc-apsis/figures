@@ -400,16 +400,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3186734"
-     inkscape:cx="271.85631"
-     inkscape:cy="232.82639"
+     inkscape:zoom="0.9324429"
+     inkscape:cx="179.66813"
+     inkscape:cy="281.81442"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
+     inkscape:window-width="1536"
+     inkscape:window-height="811"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
@@ -728,7 +728,10 @@
          y="89.964455">Report scoping</tspan></text>
     <g
        id="g7367"
-       transform="matrix(1.2120333,0,0,1.2120333,85.341594,-23.497907)">
+       transform="matrix(1.2120333,0,0,1.2120333,85.341594,-23.497907)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_scoping.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          r="7.9706774"
          cy="89.61937"
@@ -787,7 +790,10 @@
          y="265.02374">Author nomination</tspan></text>
     <g
        id="g10011"
-       transform="translate(19.71811,1.0208682)">
+       transform="translate(19.71811,1.0208682)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_authors.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          id="g10008">
         <path
@@ -815,7 +821,10 @@
          y="614.9082">Review</tspan></text>
     <g
        id="g11084"
-       transform="matrix(0.96612725,0.25806616,-0.25806616,0.96612725,189.41788,-17.286598)">
+       transform="matrix(0.96612725,0.25806616,-0.25806616,0.96612725,189.41788,-17.286598)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <circle
          r="7.5673184"
          cy="604.18433"
@@ -841,7 +850,10 @@
          y="439.60864">Report drafting</tspan></text>
     <g
        id="g13038"
-       transform="matrix(0.87551133,0,0,0.87551133,16.337268,55.953866)">
+       transform="matrix(0.87551133,0,0,0.87551133,16.337268,55.953866)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_drafting.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <path
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.50000012;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 124.655,437.60248 37.33859,5.7266 16.17338,-9.57603 -35.90373,-5.46818 -17.60824,9.31761 z"
@@ -920,7 +932,10 @@
          y="793.17114">Report</tspan></text>
     <g
        transform="translate(10.27379,4.3076904)"
-       id="g11187-1">
+       id="g11187-1"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_report.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <rect
          rx="0"
          ry="0"
@@ -1008,7 +1023,10 @@
          y="89.684097">Evidence mapping</tspan></text>
     <g
        id="g12456"
-       transform="translate(-456.18231,-12.52226)">
+       transform="translate(-456.18231,-12.52226)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_mapping.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <ellipse
          ry="3.8636017"
          rx="3.8672078"
@@ -1164,40 +1182,58 @@
        style="fill:#d94801;fill-opacity:1;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.95352948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 424.03167,479.12048 64.42105,0"
        id="path9205-5"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_synthesis.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#1f78b4;fill-opacity:1;stroke:#4b4b4b;stroke-width:0.33338553;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9207-0-4-8"
        width="9.0995455"
        height="20.942974"
        x="458.93338"
-       y="455.2149" />
+       y="455.2149"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_synthesis.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#1f78b4;fill-opacity:1;stroke:#4b4b4b;stroke-width:0.30901226;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9207-0-4-7"
        width="9.043931"
        height="25.835405"
        x="443.55103"
-       y="450.33466" />
+       y="450.33466"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_synthesis.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#1f78b4;fill-opacity:1;stroke:#4b4b4b;stroke-width:0.33338553;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9207-0-4-81"
        width="9.218401"
        height="10.445296"
        x="474.28409"
-       y="465.71259" />
+       y="465.71259"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_synthesis.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:#1f78b4;fill-opacity:1;stroke:#4b4b4b;stroke-width:0.37884784;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9207-0-4-81-9"
        width="9.2951031"
        height="15.139355"
        x="428.01529"
-       y="461.11472" />
+       y="461.11472"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_synthesis.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="fill:#d94801;fill-opacity:1;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.9072777;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 423.62405,480.12048 0,-37.43289"
        id="path9205-5-8"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_evidence_synthesis.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:117.99999475%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1221,128 +1257,200 @@
            width="100%"
            height="100%" /></flowRegion><flowPara
          id="flowPara9136">Technical Support Units (TSUs) and authors are overwhelmed by the complexity and time intensity of review tasks. Basic checks on the report quality should be automated via data mining and sampling, ensuring that individual sections represent original and comprehensive assessments of the available science.</flowPara><flowPara
-         id="flowPara9138"></flowPara></flowRoot>    <path
+         id="flowPara9138" /></flowRoot>    <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#006837;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 421.69216,620.34478 9.30404,0"
        id="path13051"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#006837;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 436.26848,620.34478 21.39928,0"
        id="path13053"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#b30000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 462.31978,620.34478 14.26619,0"
        id="path13055"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#b30000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 484.0292,620.34478 6.20269,0"
        id="path13057"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#b30000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 421.69216,627.55541 24.19049,0"
        id="path13059"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 453.32588,627.55541 21.39928,0"
        id="path13061"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#b30000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 479.99745,627.55541 10.23444,0"
        id="path13063"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 490.23189,634.766 -5.58242,0"
        id="path13065"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 476.58597,634.766 -12.40538,0"
        id="path13067"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 460.14884,634.766 -21.39928,0"
        id="path13069"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 436.26849,634.766 -14.57633,0"
        id="path13071"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 421.69216,641.97665 15.19659,0"
        id="path13073"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 445.26238,641.97665 7.1331,0"
        id="path13075"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 455.80696,641.97665 19.53847,0"
        id="path13077"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#b30000;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 481.23799,641.97665 8.9939,0"
        id="path13079"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#006837;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 421.69216,649.18729 6.20269,0"
        id="path13081"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#006837;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 436.88875,649.18729 17.0574,0"
        id="path13083"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 458.59817,649.18729 6.51282,0"
        id="path13085"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 468.83261,649.18729 6.82296,0"
        id="path13087"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="display:inline;fill:none;fill-rule:evenodd;stroke:#4b4b4b;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:"
        d="m 480.30759,649.18729 9.9243,0"
        id="path13089"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <path
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;marker-start:"
        d="m 459.42969,616.83594 0,7.01758 18.01758,0 0,6.35937 15.64453,0 0,-6.35937 0,-1.42579 0,-5.59179 -33.66211,0 z"
        id="rect13141"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect13178"
        width="37.938595"
        height="7.1820173"
        x="418.85965"
-       y="645.59625" />
+       y="645.59625"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:0;fill-rule:nonzero;stroke:#4b4b4b;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect13180"
        width="15.661795"
        height="6.5903587"
        x="418.85965"
-       y="617.04962" />
+       y="617.04962"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_quality_checking.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
        id="g13560"
-       transform="translate(0.31013455,-0.62026911)">
+       transform="translate(0.31013455,-0.62026911)"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_text_mining_authors.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
       <g
          transform="translate(6.4699292,31.602544)"
          id="g13477">
@@ -1513,63 +1621,90 @@
        width="20.667917"
        height="14.863199"
        x="421.6824"
-       y="785.07666" />
+       y="785.07666"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.572;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#78c679;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5"
        width="20.667917"
        height="14.235176"
        x="421.61008"
-       y="803.80481" />
+       y="803.80481"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f03b20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9"
        width="23.032999"
        height="9.4901171"
        x="446.52402"
-       y="784.77814" />
+       y="784.77814"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f03b20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9-1"
        width="23.032999"
        height="9.4901171"
        x="446.52402"
-       y="796.79584" />
+       y="796.79584"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#f03b20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9-4"
        width="23.032999"
        height="9.4901171"
        x="446.52402"
-       y="808.81348" />
+       y="808.81348"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2b8cbe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9-1-9"
        width="19.962666"
        height="6.7269592"
        x="474.11954"
-       y="784.62463" />
+       y="784.62463"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2b8cbe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9-1-9-3"
        width="19.962666"
        height="6.7269592"
        x="474.11954"
-       y="793.65979" />
+       y="793.65979"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2b8cbe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9-1-9-0"
        width="19.962666"
        height="6.7269592"
        x="474.11954"
-       y="802.69501" />
+       y="802.69501"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.275;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#2b8cbe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect14132-5-9-1-9-1"
        width="19.962666"
        height="6.7269592"
        x="474.11954"
-       y="811.73016" />
+       y="811.73016"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\interventions_review_workflow.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.25px;line-height:118%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
