@@ -304,11 +304,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88407029"
-     inkscape:cx="111.27528"
-     inkscape:cy="316.89562"
+     inkscape:zoom="1.7681406"
+     inkscape:cx="237.07348"
+     inkscape:cy="143.43999"
      inkscape:document-units="px"
-     inkscape:current-layer="layer7"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -1811,44 +1811,40 @@
            sodipodi:role="line">Food security</tspan></text>
     </g>
     <g
-       id="g19953"
-       transform="translate(8.8102209,-80.244075)">
-      <g
-         transform="translate(169.70563,-49.303396)"
-         id="g19881">
-        <path
-           inkscape:connector-curvature="0"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#636363;fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           d="m 230.98845,956.88836 a 3.0612623,3.0190289 65.516707 0 1 -4.10335,1.18419 3.0612623,3.0190289 65.516707 0 1 -1.2165,-4.15358 3.0612623,3.0190289 65.516707 0 1 4.10334,-1.18419 3.0612623,3.0190289 65.516707 0 1 1.21651,4.15358 z"
-           id="path21347-7" />
-        <path
-           inkscape:connector-curvature="0"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:0.50000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5999999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           d="m 239.57861,951.43415 a 1.4117213,1.3922451 65.516707 0 1 -1.89227,0.54608 1.4117213,1.3922451 65.516707 0 1 -0.56101,-1.91543 1.4117213,1.3922451 65.516707 0 1 1.89229,-0.5461 1.4117213,1.3922451 65.516707 0 1 0.56099,1.91545 z"
-           id="path21349-0" />
-        <path
-           inkscape:connector-curvature="0"
-           style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-           d="m 240.91905,961.61166 a 2.3528687,2.3204083 65.516707 0 1 -3.15379,0.91015 2.3528687,2.3204083 65.516707 0 1 -0.93501,-3.1924 2.3528687,2.3204083 65.516707 0 1 3.15381,-0.91017 2.3528687,2.3204083 65.516707 0 1 0.93499,3.19242 z"
-           id="path21351-8" />
-        <path
-           style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1"
-           d="m 237.0426,951.30045 -8.69376,4.06697 8.3364,4.17245"
-           id="path21353-8"
-           inkscape:connector-curvature="0" />
-      </g>
-      <text
-         sodipodi:linespacing="100%"
-         id="text18732-7-6-2-5-0-0"
-         y="909.56897"
-         x="418.99667"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75000095px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           y="909.56897"
-           x="418.99667"
-           id="tspan18854"
-           sodipodi:role="line">Ecosystem changes</tspan></text>
+       id="g19881"
+       transform="translate(178.51585,-129.54747)">
+      <path
+         id="path21347-7"
+         d="m 230.98845,956.88836 a 3.0612623,3.0190289 65.516707 0 1 -4.10335,1.18419 3.0612623,3.0190289 65.516707 0 1 -1.2165,-4.15358 3.0612623,3.0190289 65.516707 0 1 4.10334,-1.18419 3.0612623,3.0190289 65.516707 0 1 1.21651,4.15358 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#636363;fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path21349-0"
+         d="m 239.57861,951.43415 a 1.4117213,1.3922451 65.516707 0 1 -1.89227,0.54608 1.4117213,1.3922451 65.516707 0 1 -0.56101,-1.91543 1.4117213,1.3922451 65.516707 0 1 1.89229,-0.5461 1.4117213,1.3922451 65.516707 0 1 0.56099,1.91545 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:0.50000006;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.5999999;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path21351-8"
+         d="m 240.91905,961.61166 a 2.3528687,2.3204083 65.516707 0 1 -3.15379,0.91015 2.3528687,2.3204083 65.516707 0 1 -0.93501,-3.1924 2.3528687,2.3204083 65.516707 0 1 3.15381,-0.91017 2.3528687,2.3204083 65.516707 0 1 0.93499,3.19242 z"
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#636363;stroke-width:2.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path21353-8"
+         d="m 237.0426,951.30045 -8.69376,4.06697 8.3364,4.17245"
+         style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75000095px;line-height:100%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="427.80688"
+       y="829.32489"
+       id="text18732-7-6-2-5-0-0"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan18854"
+         x="427.80688"
+         y="829.32489">Ecosystem changes</tspan></text>
     <g
        id="g19996"
        transform="translate(25.496145,-89.840525)">
