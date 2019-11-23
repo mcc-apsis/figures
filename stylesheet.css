@@ -19,10 +19,9 @@
 
 #header {
 	float: left;
-	height: 68px;
+	height: 100px;
 	width: 980px;
 	border-top: 1px solid #999;
-	border-bottom: 1px solid #999;
 }
 
 #header h1{
@@ -52,8 +51,6 @@ h2{
 	text-align: left;
 	letter-spacing: .15em;
 	margin: 35px 0px 15px 0px;
-	padding-bottom: 10px;
-	border-bottom: 1px solid #d0d0d0;
 }
 
 
@@ -75,4 +72,11 @@ h2{
 
 table tr {
 	text-align: left;
+}
+
+img {
+  object-fit: cover;
+  margin: 5px;
+  border: 1px solid #d0d0d0;
+  padding: 10px;
 }
