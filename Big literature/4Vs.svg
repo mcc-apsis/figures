@@ -21,6 +21,60 @@
    inkscape:export-ydpi="300.01077">
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11438"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11440"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#525252;stroke-width:1pt;stroke-opacity:1;fill:#525252;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotS"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11435"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11244"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#525252;stroke-width:1pt;stroke-opacity:1;fill:#525252;fill-opacity:1"
+         transform="scale(0.2) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11241"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#525252;stroke-width:1pt;stroke-opacity:1;fill:#525252;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11144"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8068"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8064"
+       is_visible="true" />
     <inkscape:path-effect
        effect="spiro"
        id="path-effect9896"
@@ -10591,17 +10645,349 @@
        effect="spiro"
        id="path-effect23373-7"
        is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23373-7-6"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23393-9"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23393-9-7"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23373-7-6-1"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9150-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9152-6"
+         style="fill:#636363;fill-opacity:1;fill-rule:evenodd;stroke:#636363;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9896-7"
+       is_visible="true" />
+    <clipPath
+       id="clipPath7402"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7404"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7414"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7416"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7426"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7428"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7438"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7440"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7450"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7452"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7462"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7464"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7474"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7476"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7486"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7488"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7498"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7500"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7510"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7512"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7522"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7524"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7534"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7536"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath7546"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path7548"
+         d="m 51.12,185.04 492.84,0 0,431.16 -492.84,0 0,-431.16 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10250"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10252"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10262"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10264"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10274"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10276"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10286"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10288"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10298"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10300"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10310"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10312"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10322"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10324"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10334"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10336"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10346"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10348"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10358"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10360"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10370"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10372"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10382"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10384"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10394"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10396"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10406"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10408"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10418"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10420"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10430"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10432"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <clipPath
+       id="clipPath10442"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         style="clip-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path10444"
+         d="m 51.36,83.88 738.96,0 0,427.8 -738.96,0 0,-427.8 z" />
+    </clipPath>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect8064-1"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect23393-1"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9150-9-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path9152-6-4"
+         style="fill:#636363;fill-opacity:1;fill-rule:evenodd;stroke:#636363;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9896-7-2"
+       is_visible="true" />
   </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87885424"
-     inkscape:cx="582.18824"
-     inkscape:cy="291.01889"
+     inkscape:zoom="0.87885425"
+     inkscape:cx="-125.16013"
+     inkscape:cy="-386.45109"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -14576,374 +14962,6 @@
            y="364.94156"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara7578">Risk of selection bias increases as the proportion (and representativeness) of literature captured by assessment declines </flowPara></flowRoot>    <path
-       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.6496346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 945.95771,1816.9695 -184.0847,0 0,-175.0845"
-       id="path19332-1-1-3-6"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 783.66065,1817.2442 0,1.7954"
-       id="path19334-8-32-8-5"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="783.23035"
-       y="1842.9385"
-       id="text19375-6-8-84-1-0"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19397-0-0-2-7"
-         x="783.23035"
-         y="1842.9385">1990</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="784.25269"
-       y="1832.5405"
-       id="text19272-5-8-2-9"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19274-9-3-4-8"
-         x="784.25269"
-         y="1832.5405">AR1</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 820.58736,1817.2442 0,1.7954"
-       id="path19334-9-2-3-7-3"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="820.18762"
-       y="1842.9385"
-       id="text19375-6-5-0-7-3-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19417-3-2-8-4"
-         x="820.18762"
-         y="1842.9385">1995</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="820.92004"
-       y="1832.6091"
-       id="text19276-2-9-1-4"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19278-9-6-6-1"
-         x="820.92004"
-         y="1832.6091">AR2</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 857.55592,1817.2442 0,1.7954"
-       id="path19334-3-0-6-0-0"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="857.73602"
-       y="1842.9412"
-       id="text19375-6-5-6-9-5-6-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19437-8-3-9-7"
-         x="857.73602"
-         y="1842.9412">2001</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="857.9527"
-       y="1832.5295"
-       id="text19280-3-6-2-5"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19282-2-0-3-8"
-         x="857.9527"
-         y="1832.5295">AR3</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 894.48454,1817.2442 0,1.7954"
-       id="path19334-0-3-3-4-9"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="894.39301"
-       y="1842.9412"
-       id="text19375-9-0-7-2"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19377-1-6-1-2"
-         x="894.39301"
-         y="1842.9412">2007</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="894.71344"
-       y="1832.5186"
-       id="text19284-4-66-6-6"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19286-5-6-0-9"
-         x="894.71344"
-         y="1832.5186">AR4</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 931.41524,1817.2442 0,1.7954"
-       id="path19334-5-3-1-9-6"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="931.23218"
-       y="1842.9412"
-       id="text19375-8-7-8-1-0"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19457-9-0-3-0"
-         x="931.23218"
-         y="1842.9412">2014</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="931.78455"
-       y="1832.4443"
-       id="text19288-9-9-0-1"
-       sodipodi:linespacing="125%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan19290-0-0-5-9"
-         x="931.78455"
-         y="1832.4443">AR5</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 773.0541,1807.0593 0,-145.4128 21.4523,0 0,145.4128 z"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path20659"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 809.97964,1807.0593 0,-154.3331 21.4523,0 0,154.3331 z"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path20661"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 846.90518,1807.0593 0,-157.5554 21.4523,0 0,157.5554 z"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path20663"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 883.83071,1807.0593 0,-86.9935 21.4523,0 0,86.9935 z"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path20665"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 920.75625,1807.0593 0,-57.5674 21.4523,0 0,57.5674 z"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       id="path20667"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <line
-       y2="1765.9678"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="759.09485"
-       x2="760.71484"
-       y1="1765.9678"
-       id="line20597"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <line
-       y2="1724.8762"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="759.09485"
-       x2="760.71484"
-       y1="1724.8762"
-       id="line20599"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <line
-       y2="1683.7847"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="759.09485"
-       x2="760.71484"
-       y1="1683.7847"
-       id="line20601"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <line
-       y2="1642.6931"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="759.09485"
-       x2="760.71484"
-       y1="1642.6931"
-       id="line20601-6"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <line
-       y2="1806.5925"
-       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-       x1="759.09485"
-       x2="760.71484"
-       y1="1806.5925"
-       id="line20597-6"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="740.59595"
-       y="1768.7186"
-       id="text21724"
-       sodipodi:linespacing="117.99999%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan21728"
-         x="740.59595"
-         y="1768.7186">10</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="740.59595"
-       y="1730.507"
-       id="text21724-5"
-       sodipodi:linespacing="117.99999%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan21748"
-         x="740.59595"
-         y="1730.507">20</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="740.59595"
-       y="1689.007"
-       id="text21724-59"
-       sodipodi:linespacing="117.99999%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan21758"
-         x="740.59595"
-         y="1689.007">30</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="740.59595"
-       y="1646.78"
-       id="text21724-59-6"
-       sodipodi:linespacing="117.99999%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan21778"
-         x="740.59595"
-         y="1646.78">40</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="747.75903"
-       y="1810.6794"
-       id="text21816"
-       sodipodi:linespacing="117.99999%"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan21818"
-         x="747.75903"
-         y="1810.6794">0</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-1735.337"
-       y="718.8371"
-       id="text19880-3"
-       sodipodi:linespacing="117.99999%"
-       transform="matrix(0,-1,1,0,0,0)"
-       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
-       inkscape:export-xdpi="300.01077"
-       inkscape:export-ydpi="300.01077"><tspan
-         sodipodi:role="line"
-         id="tspan22506"
-         x="-1733.5792"
-         y="718.8371">IPCC AR citations / </tspan><tspan
-         sodipodi:role="line"
-         id="tspan22508"
-         x="-1733.5792"
-         y="730.63708">contemporary publications </tspan></text>
-    <path
        style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 438.17026,1817.2165 0,1.7954"
        id="path19334-7-0-0-6-6"
@@ -15011,12 +15029,1242 @@
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
        inkscape:export-xdpi="300.01077"
        inkscape:export-ydpi="300.01077" />
+    <g
+       id="g9322">
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path19332-1-1-3-6"
+         d="m 945.95771,1816.9695 -184.0847,0 0,-175.0845"
+         style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.6496346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         inkscape:connector-curvature="0"
+         id="path19334-8-32-8-5"
+         d="m 783.66065,1817.2442 0,1.7954"
+         style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19375-6-8-84-1-0"
+         y="1842.9385"
+         x="783.23035"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1842.9385"
+           x="783.23035"
+           id="tspan19397-0-0-2-7"
+           sodipodi:role="line">1990</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19272-5-8-2-9"
+         y="1832.5405"
+         x="784.25269"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1832.5405"
+           x="784.25269"
+           id="tspan19274-9-3-4-8"
+           sodipodi:role="line">AR1</tspan></text>
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         inkscape:connector-curvature="0"
+         id="path19334-9-2-3-7-3"
+         d="m 820.58736,1817.2442 0,1.7954"
+         style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19375-6-5-0-7-3-1"
+         y="1842.9385"
+         x="820.18762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1842.9385"
+           x="820.18762"
+           id="tspan19417-3-2-8-4"
+           sodipodi:role="line">1995</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19276-2-9-1-4"
+         y="1832.6091"
+         x="820.92004"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1832.6091"
+           x="820.92004"
+           id="tspan19278-9-6-6-1"
+           sodipodi:role="line">AR2</tspan></text>
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         inkscape:connector-curvature="0"
+         id="path19334-3-0-6-0-0"
+         d="m 857.55592,1817.2442 0,1.7954"
+         style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19375-6-5-6-9-5-6-1"
+         y="1842.9412"
+         x="857.73602"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1842.9412"
+           x="857.73602"
+           id="tspan19437-8-3-9-7"
+           sodipodi:role="line">2001</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19280-3-6-2-5"
+         y="1832.5295"
+         x="857.9527"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1832.5295"
+           x="857.9527"
+           id="tspan19282-2-0-3-8"
+           sodipodi:role="line">AR3</tspan></text>
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         inkscape:connector-curvature="0"
+         id="path19334-0-3-3-4-9"
+         d="m 894.48454,1817.2442 0,1.7954"
+         style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19375-9-0-7-2"
+         y="1842.9412"
+         x="894.39301"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1842.9412"
+           x="894.39301"
+           id="tspan19377-1-6-1-2"
+           sodipodi:role="line">2007</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19284-4-66-6-6"
+         y="1832.5186"
+         x="894.71344"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1832.5186"
+           x="894.71344"
+           id="tspan19286-5-6-0-9"
+           sodipodi:role="line">AR4</tspan></text>
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         inkscape:connector-curvature="0"
+         id="path19334-5-3-1-9-6"
+         d="m 931.41524,1817.2442 0,1.7954"
+         style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19375-8-7-8-1-0"
+         y="1842.9412"
+         x="931.23218"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1842.9412"
+           x="931.23218"
+           id="tspan19457-9-0-3-0"
+           sodipodi:role="line">2014</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="125%"
+         id="text19288-9-9-0-1"
+         y="1832.4443"
+         x="931.78455"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1832.4443"
+           x="931.78455"
+           id="tspan19290-0-0-5-9"
+           sodipodi:role="line">AR5</tspan></text>
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="path20659"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         d="m 773.0541,1807.0593 0,-145.4128 21.4523,0 0,145.4128 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="path20661"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         d="m 809.97964,1807.0593 0,-154.3331 21.4523,0 0,154.3331 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="path20663"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         d="m 846.90518,1807.0593 0,-157.5554 21.4523,0 0,157.5554 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="path20665"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         d="m 883.83071,1807.0593 0,-86.9935 21.4523,0 0,86.9935 z"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="path20667"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         d="m 920.75625,1807.0593 0,-57.5674 21.4523,0 0,57.5674 z"
+         inkscape:connector-curvature="0" />
+      <line
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="line20597"
+         y1="1765.9678"
+         x2="760.71484"
+         x1="759.09485"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         y2="1765.9678" />
+      <line
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="line20599"
+         y1="1724.8762"
+         x2="760.71484"
+         x1="759.09485"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         y2="1724.8762" />
+      <line
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="line20601"
+         y1="1683.7847"
+         x2="760.71484"
+         x1="759.09485"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         y2="1683.7847" />
+      <line
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="line20601-6"
+         y1="1642.6931"
+         x2="760.71484"
+         x1="759.09485"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         y2="1642.6931" />
+      <line
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         id="line20597-6"
+         y1="1806.5925"
+         x2="760.71484"
+         x1="759.09485"
+         style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         y2="1806.5925" />
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="117.99999%"
+         id="text21724"
+         y="1768.7186"
+         x="740.59595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1768.7186"
+           x="740.59595"
+           id="tspan21728"
+           sodipodi:role="line">10</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="117.99999%"
+         id="text21724-5"
+         y="1730.507"
+         x="740.59595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1730.507"
+           x="740.59595"
+           id="tspan21748"
+           sodipodi:role="line">20</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="117.99999%"
+         id="text21724-59"
+         y="1689.007"
+         x="740.59595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1689.007"
+           x="740.59595"
+           id="tspan21758"
+           sodipodi:role="line">30</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="117.99999%"
+         id="text21724-59-6"
+         y="1646.78"
+         x="740.59595"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1646.78"
+           x="740.59595"
+           id="tspan21778"
+           sodipodi:role="line">40</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:linespacing="117.99999%"
+         id="text21816"
+         y="1810.6794"
+         x="747.75903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="1810.6794"
+           x="747.75903"
+           id="tspan21818"
+           sodipodi:role="line">0</tspan></text>
+      <text
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         transform="matrix(0,-1,1,0,0,0)"
+         sodipodi:linespacing="117.99999%"
+         id="text19880-3"
+         y="718.8371"
+         x="-1735.337"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="718.8371"
+           x="-1733.5792"
+           id="tspan22506"
+           sodipodi:role="line">IPCC AR citations / </tspan><tspan
+           y="730.63708"
+           x="-1733.5792"
+           id="tspan22508"
+           sodipodi:role="line">contemporary publications </tspan></text>
+      <path
+         inkscape:export-ydpi="300.01077"
+         inkscape:export-xdpi="300.01077"
+         inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+         sodipodi:nodetypes="czc"
+         inkscape:connector-curvature="0"
+         inkscape:original-d="m 885.64341,1660.999 c 0,0 17.36145,26.041 26.17048,36.9799 8.80904,10.9389 31.29069,30.1529 31.29069,30.1529"
+         inkscape:path-effect="#path-effect9896"
+         id="path9894"
+         d="m 885.64341,1660.999 c 7.51351,13.1261 16.29062,25.5285 26.17048,36.9799 9.47549,10.9827 19.96468,21.0905 31.29069,30.1529"
+         style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9150)" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-268.47733"
+       y="2582.1252"
+       id="text21724-6"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan21728-9"
+         x="-268.47733"
+         y="2582.1252">10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-268.44876"
+       y="2543.9138"
+       id="text21724-5-9"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan21748-8"
+         x="-268.44876"
+         y="2543.9138">20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-268.45023"
+       y="2502.4138"
+       id="text21724-59-1"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan21758-2"
+         x="-268.45023"
+         y="2502.4138">30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-268.42825"
+       y="2460.1868"
+       id="text21724-59-6-6"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan21778-9"
+         x="-268.42825"
+         y="2460.1868">40</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-260.96146"
+       y="2624.0862"
+       id="text21816-3"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan21818-1"
+         x="-260.96146"
+         y="2624.0862">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-261.94403"
+       y="2421.2368"
+       id="text19880-3-5"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan9976"
+         x="-261.94403"
+         y="2421.2368">Fraction of climate publications</tspan><tspan
+         sodipodi:role="line"
+         id="tspan9978"
+         x="-261.94403"
+         y="2435.9868">cited in IPCC reports (%)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-223.39069"
+       y="2651.9819"
+       id="text19375-6-8-84-1-0-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19397-0-0-2-7-0"
+         x="-223.39069"
+         y="2651.9819">1990</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-222.57404"
+       y="2641.584"
+       id="text19272-5-8-2-9-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19274-9-3-4-8-7"
+         x="-222.57404"
+         y="2641.584">AR1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-183.22733"
+       y="2651.9819"
+       id="text19375-6-5-0-7-3-1-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19417-3-2-8-4-9"
+         x="-183.22733"
+         y="2651.9819">1995</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-182.69327"
+       y="2641.6526"
+       id="text19276-2-9-1-4-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19278-9-6-6-1-9"
+         x="-182.69327"
+         y="2641.6526">AR2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-142.62451"
+       y="2651.9846"
+       id="text19375-6-5-6-9-5-6-1-0"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19437-8-3-9-7-1"
+         x="-142.62451"
+         y="2651.9846">2001</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-142.4472"
+       y="2641.573"
+       id="text19280-3-6-2-5-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19282-2-0-3-8-7"
+         x="-142.4472"
+         y="2641.573">AR3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-102.70285"
+       y="2651.9846"
+       id="text19375-9-0-7-2-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19377-1-6-1-2-6"
+         x="-102.70285"
+         y="2651.9846">2007</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-102.47305"
+       y="2641.562"
+       id="text19284-4-66-6-6-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19286-5-6-0-9-3"
+         x="-102.47305"
+         y="2641.562">AR4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-62.637146"
+       y="2651.9846"
+       id="text19375-8-7-8-1-0-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19457-9-0-3-0-3"
+         x="-62.637146"
+         y="2651.9846">2014</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-62.188538"
+       y="2641.4878"
+       id="text19288-9-9-0-1-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19290-0-0-5-9-2"
+         x="-62.188538"
+         y="2641.4878">AR5</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9150)"
-       d="m 885.64341,1660.999 c 7.51351,13.1261 16.29062,25.5285 26.17048,36.9799 9.47549,10.9827 19.96468,21.0905 31.29069,30.1529"
-       id="path9894"
-       inkscape:path-effect="#path-effect9896"
-       inkscape:original-d="m 885.64341,1660.999 c 0,0 17.36145,26.041 26.17048,36.9799 8.80904,10.9389 31.29069,30.1529 31.29069,30.1529"
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.6496346;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -46.755652,2626.013 -200.104488,0 0,-171.0664"
+       id="path19332-1-1-3-6-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -223.04644,2626.2878 0,1.7954"
+       id="path19334-8-32-8-5-8"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -182.90749,2626.2878 0,1.7954"
+       id="path19334-9-2-3-7-3-1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -142.76855,2626.2878 0,1.7954"
+       id="path19334-3-0-6-0-0-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -102.62961,2626.2878 0,1.7954"
+       id="path19334-0-3-3-4-9-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -62.563665,2626.2878 0,1.7954"
+       id="path19334-5-3-1-9-6-0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -234.10638,2620.1029 0,-145.4128 22.11987,0 0,145.4128 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path20659-3"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -193.96743,2620.1029 0,-154.3332 22.11987,0 0,154.3332 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path20661-4"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -153.82848,2620.1029 0,-157.5555 22.11986,0 0,157.5555 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path20663-7"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -113.68954,2620.1029 0,-86.9935 22.119865,0 0,86.9935 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path20665-8"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -73.550596,2620.1029 0,-57.5674 22.119871,0 0,57.5674 z"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:#c8c8c8;fill-opacity:1;fill-rule:evenodd;stroke:#595959;stroke-width:0.66670001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       id="path20667-8"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <line
+       y2="2579.0112"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="-249.71007"
+       x2="-248.09007"
+       y1="2579.0112"
+       id="line20597-2"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <line
+       y2="2537.9197"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="-249.71007"
+       x2="-248.09007"
+       y1="2537.9197"
+       id="line20599-7"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <line
+       y2="2496.8281"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="-249.71007"
+       x2="-248.09007"
+       y1="2496.8281"
+       id="line20601-5"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <line
+       y2="2455.7366"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="-249.71007"
+       x2="-248.09007"
+       y1="2455.7366"
+       id="line20601-6-2"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <line
+       y2="2619.636"
+       style="font-style:normal;font-weight:normal;font-size:medium;font-family:Dialog;color-interpolation:linearRGB;fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.60000002;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+       x1="-249.71007"
+       x2="-248.09007"
+       y1="2619.636"
+       id="line20597-6-8"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9150-9)"
+       d="m -112.702,2474.0426 c 7.51351,13.1261 16.290624,25.5285 26.170488,36.9799 9.47549,10.9827 19.96468,21.0905 31.290687,30.1529"
+       id="path9894-7"
+       inkscape:path-effect="#path-effect9896-7"
+       inkscape:original-d="m -112.702,2474.0426 c 0,0 17.361454,26.041 26.170488,36.9799 8.809037,10.9389 31.290687,30.1529 31.290687,30.1529"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czc"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.5px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-262.38348"
+       y="2137.0615"
+       id="text19880-2-0"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan10173"
+         x="-262.38348"
+         y="2137.0615">No. climate change publications </tspan><tspan
+         sodipodi:role="line"
+         id="tspan10175"
+         x="-262.38348"
+         y="2151.8115">in the Web of Science</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -50.701402,2339.2021 -196.386178,0"
+       id="path19332-1-2-4-9-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -228.11306,2339.3637 0,1.7954"
+       id="path19334-8-3-2-0-2"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -163.49537,2339.3637 0,1.7954"
+       id="path19334-3-0-4-9-4-3"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -131.12675,2339.3637 0,1.7954"
+       id="path19334-0-3-5-6-1-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -98.758112,2339.3637 0,1.7954"
+       id="path19334-5-3-4-8-6-7"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -66.389462,2339.3637 0,1.7954"
+       id="path19334-7-0-0-6-2-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-131.21834"
+       y="2365.061"
+       id="text19375-9-1-2-0-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19377-1-9-8-2-1"
+         x="-131.21834"
+         y="2365.061">2007</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-228.66301"
+       y="2365.0583"
+       id="text19375-6-8-8-8-0-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19397-0-1-2-0-4"
+         x="-228.66301"
+         y="2365.0583">1990</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-196.26381"
+       y="2365.0583"
+       id="text19375-6-5-0-8-1-2-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19417-3-8-4-2-8"
+         x="-196.26381"
+         y="2365.0583">1995</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-163.31532"
+       y="2365.061"
+       id="text19375-6-5-6-9-0-8-8-6"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19437-8-8-2-3-4"
+         x="-163.31532"
+         y="2365.061">2001</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-98.941246"
+       y="2365.061"
+       id="text19375-8-7-7-5-2-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19457-9-8-2-7-1"
+         x="-98.941246"
+         y="2365.061">2014</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-66.324791"
+       y="2365.061"
+       id="text19375-8-3-5-5-1-6-5"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         y="2365.061"
+         x="-66.324791"
+         sodipodi:role="line"
+         id="tspan31175-1-3">2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-227.64067"
+       y="2354.6604"
+       id="text19272-5-2-0-6-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19274-9-7-8-9-1"
+         x="-227.64067"
+         y="2354.6604">AR1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-195.53139"
+       y="2354.729"
+       id="text19276-2-1-1-2-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19278-9-4-6-2-5"
+         x="-195.53139"
+         y="2354.729">AR2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-163.09865"
+       y="2354.6494"
+       id="text19280-3-3-3-5-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19282-2-4-1-2-5"
+         x="-163.09865"
+         y="2354.6494">AR3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-130.8979"
+       y="2354.6384"
+       id="text19284-4-6-6-6-9"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19286-5-1-3-2-6"
+         x="-130.8979"
+         y="2354.6384">AR4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-98.388878"
+       y="2354.5642"
+       id="text19288-9-5-3-1-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19290-0-4-0-9-4"
+         x="-98.388878"
+         y="2354.5642">AR5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-66.316887"
+       y="2354.6411"
+       id="text19292-0-3-1-6-8"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan19294-2-9-1-0-9"
+         x="-66.316887"
+         y="2354.6411">AR6</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -195.86402,2339.3637 0,1.7954"
+       id="path19334-9-2-6-1-6-4"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:120.00000477%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-92.11554"
+       y="2489.3677"
+       id="text9980"
+       sodipodi:linespacing="120%"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan11448"
+         x="-92.11554"
+         y="2489.3677">Increasing risk</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11450"
+         x="-92.11554"
+         y="2501.3677">  of missing</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11452"
+         x="-92.11554"
+         y="2513.3677">      important research</tspan></text>
+    <text
+       transform="scale(1.000793,0.99920763)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.546875px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text10278"
+       x="-290.51678"
+       y="2297.5178"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077">
+      <tspan
+         sodipodi:role="line"
+         id="tspan11077"
+         x="-290.51678"
+         y="2297.5178">100,000</tspan>
+    </text>
+    <text
+       transform="scale(1.000793,0.99920763)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.546875px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text10302"
+       x="-290.51678"
+       y="2257.0117"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077">
+      <tspan
+         sodipodi:role="line"
+         id="tspan11075"
+         x="-290.51678"
+         y="2257.0117">200,000</tspan>
+    </text>
+    <text
+       transform="scale(1.000793,0.99920763)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.53262424px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text10326"
+       x="-290.47031"
+       y="2216.502"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077">
+      <tspan
+         sodipodi:role="line"
+         id="tspan11073"
+         x="-290.47031"
+         y="2216.502">300,000</tspan>
+    </text>
+    <text
+       transform="scale(1.000793,0.99920763)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.546875px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text10350"
+       x="-290.51678"
+       y="2175.9993"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077">
+      <tspan
+         sodipodi:role="line"
+         id="tspan11071"
+         x="-290.51678"
+         y="2175.9993">400,000</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.84200001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m -249.45101,2293.2088 3.47892,0"
+       id="path10730"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.84200001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m -249.45101,2252.7027 3.47892,0"
+       id="path10726"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.84200001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m -249.45101,2212.2016 3.47892,0"
+       id="path10722"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.84200001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m -249.45101,2171.643 3.47892,0"
+       id="path10240"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -238.37919,2333.3432 20.53222,0 0,0.3929 -20.53222,0 0,-0.3929 z"
+       id="path10746"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -206.14693,2330.2575 20.6983,0 0,3.4786 -20.6983,0 0,-3.4786 z"
+       id="path10744"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -173.7486,2324.9454 20.53222,0 0,8.7907 -20.53222,0 0,-8.7907 z"
+       id="path10742"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -141.51635,2318.0302 20.69831,0 0,15.7059 -20.69831,0 0,-15.7059 z"
+       id="path10740"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -109.11802,2279.2528 20.532228,0 0,54.4833 -20.532228,0 0,-54.4833 z"
+       id="path10738"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#595959;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -76.80272,2184.0432 20.532219,0 0,149.6929 -20.532219,0 0,-149.6929 z"
+       id="path10242"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1.648;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -246.18,2170.7251 0,169.0237"
+       id="path8062-3"
+       inkscape:path-effect="#path-effect8064-1"
+       inkscape:original-d="m -246.18,2170.7251 0,169.0237"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:1;stroke:#525252;stroke-width:1.84200001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+       d="m -249.45102,2333.5396 3.47893,0"
+       id="path10730-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <text
+       transform="scale(1.000793,0.99920763)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.546875px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text10278-1"
+       x="-261.10089"
+       y="2338.7219"
+       sodipodi:linespacing="125%"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077">
+      <tspan
+         sodipodi:role="line"
+         id="tspan11112"
+         x="-261.10089"
+         y="2338.7219">0</tspan>
+    </text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#595959;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3, 1;stroke-dashoffset:1.10000002;stroke-opacity:1"
+       d="m -76.973534,2252.5897 20.694561,0"
+       id="path11142"
+       inkscape:path-effect="#path-effect11144"
+       inkscape:original-d="m -76.973534,2252.5897 20.694561,0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:117.99999475%;font-family:Dialog;-inkscape-font-specification:'Dialog, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#525252;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-40.640381"
+       y="2224.3616"
+       id="text23383-9"
+       sodipodi:linespacing="117.99999%"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"><tspan
+         sodipodi:role="line"
+         id="tspan11478"
+         x="-40.640381"
+         y="2224.3616">Projection</tspan><tspan
+         sodipodi:role="line"
+         id="tspan11480"
+         x="-40.640381"
+         y="2236.1616">(2019-)</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#525252;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker11438)"
+       d="m -44.12088,2221.1295 -19.779167,0"
+       id="path23391-7"
+       inkscape:path-effect="#path-effect23393-1"
+       inkscape:original-d="m -44.12088,2221.1295 -19.779167,0"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_2.png"
+       inkscape:export-xdpi="300.01077"
+       inkscape:export-ydpi="300.01077"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#636363;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker9150-9-8)"
+       d="m -184.68167,2299.188 c 18.71892,-10.3161 35.651,-23.8644 49.82147,-39.8649 13.8265,-15.6121 25.01911,-33.5512 32.96386,-52.8331"
+       id="path9894-7-8"
+       inkscape:path-effect="#path-effect9896-7-2"
+       inkscape:original-d="m -184.68167,2299.188 c 0,0 39.68237,-30.146 49.82147,-39.8649 10.1391,-9.7188 32.96386,-52.8331 32.96386,-52.8331"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="czc"
        inkscape:export-filename="C:\Users\lamw\Google Drive\Work\Figures\APSIS figures\Big literature\Big literature pieces\4vs_4.png"
