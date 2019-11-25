@@ -28,55 +28,33 @@
 	font: 24px helvetica;
 	text-align: center;
 	letter-spacing: .2em;
-	margin: 15px 0px 0px 30px;
-}
-
-#header p {
-	text-align: right;
-	margin: 0px 10px 5px 0px;
-}
-
-#header p a {
-	text-decoration: none;
-	color: black;
+	margin: 15px 0px 0px 0px;
 }
 
 #mainbody {
 	float: left;
-	margin: 25px 25px 25px 25px;
+	margin: 0px 25px 25px 25px;
 }
 
 h2{
 	font: 20px helvetica;
-	text-align: left;
-	letter-spacing: .15em;
-	margin: 35px 0px 15px 0px;
-}
-
-
-#vistable table td {
-	width: 200px;
 	text-align: center;
-	padding: 3px;
+	letter-spacing: .15em;
+	margin-top: 35px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #d0d0d0;
 }
 
-#vistable table img {
-	border: 1px solid #999;
-	width: 220px;
+p {
+	margin: 10px 50px 75px 50px;
 }
 
-#refs p {
-	padding-left: 25px;
-	text-indent: -25px;
-}
-
-table tr {
-	text-align: left;
-}
 
 img {
   object-fit: cover;
   margin: 5px;
-  border: 1px solid #d0d0d0;
   padding: 10px;
+  text-align:center;
+  display:block;
+  margin:auto;
 }
