@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="190.32195mm"
+   height="47.807205mm"
+   viewBox="0 0 190.32195 47.807205"
+   version="1.1"
+   id="svg5833"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="NETs permanence.svg"
+   inkscape:export-filename="C:\Users\lamw\Documents\SpiderOak Hive\Work\Figures\NETs\fancy visuals\NETs permanence.png"
+   inkscape:export-xdpi="499"
+   inkscape:export-ydpi="499"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs5827">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6857" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6851" />
+    </marker>
+    <inkscape:path-effect
+       effect="simplify"
+       id="path-effect6822"
+       is_visible="true"
+       lpeversion="1"
+       steps="1"
+       threshold="0.5"
+       smooth_angles="360"
+       helper_size="0"
+       simplify_individual_paths="false"
+       simplify_just_coalesce="false" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="554.57375"
+     inkscape:cy="126.26907"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1431"
+     inkscape:window-height="1030"
+     inkscape:window-x="224"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5830">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.836281,-39.288451)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="214.47911"
+       y="87.052589"
+       id="text6500-5-3"><tspan
+         sodipodi:role="line"
+         id="tspan6554-2-5"
+         x="214.47911"
+         y="87.052589">2100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="176.8495"
+       y="87.052589"
+       id="text6500-3-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan6526-2-1"
+         x="176.8495"
+         y="87.052589">2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="190.9606"
+       y="87.052589"
+       id="text6500-3-8-0-2"><tspan
+         sodipodi:role="line"
+         id="tspan6552-7-2"
+         x="190.9606"
+         y="87.052589">2050</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';fill:#676767;fill-opacity:0.741176;stroke-width:0.264583"
+       x="164.28893"
+       y="54.86208"
+       id="text6564-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan6562-7-1"
+         x="164.28893"
+         y="54.86208"
+         style="fill:#676767;fill-opacity:0.741176;stroke-width:0.264583">tCO₂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="169.40515"
+       y="41.858486"
+       id="text6568-9-5"><tspan
+         sodipodi:role="line"
+         id="tspan6792"
+         x="169.40515"
+         y="41.858486">Bioenergie mit CO₂-Abscheidung</tspan><tspan
+         sodipodi:role="line"
+         id="tspan6794"
+         x="169.40515"
+         y="46.2682">und -Verpressung (BECCS)</tspan></text>
+    <path
+       style="fill:#2c7fb8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 180.7423,82.064366 V 59.066395 l 37.61087,2.939965 v 19.91158 z"
+       id="path6808" />
+    <path
+       style="opacity:0.551471;fill:#2c7fb8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 218.35317,62.00636 180.7423,59.066395 h 37.66303 z"
+       id="path6810" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="196.57721"
+       y="55.824909"
+       id="text6818"><tspan
+         sodipodi:role="line"
+         id="tspan6816"
+         x="196.57721"
+         y="55.824909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583">Austrittrisiko</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Send)"
+       d="m 213.81292,55.12417 c 1.78526,-0.301428 1.64315,1.905878 0.93544,2.80633"
+       id="path6820"
+       inkscape:path-effect="#path-effect6822"
+       inkscape:original-d="m 213.81292,55.12417 c 1.87303,-0.142884 1.6127,1.722718 0.93544,2.80633" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.18491,51.136214 v 30.795861 h 48.38095"
+       id="path6400-4-8" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 180.74233,82.064366 v 1.606399"
+       id="path6402-0-7-1" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 194.85344,82.064366 v 1.606399"
+       id="path6402-6-3-0" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 218.37194,82.064366 v 1.606399"
+       id="path6402-97-0-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';stroke-width:0.264583"
+       x="209.14491"
+       y="51.667171"
+       id="text6814"><tspan
+         sodipodi:role="line"
+         id="tspan6812"
+         x="209.14491"
+         y="51.667171"
+         style="stroke-width:0.264583" /></text>
+    <path
+       style="fill:#2c7fb8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 49.285993,82.064366 63.240449,59.333665 h 23.653353 v 22.571602 z"
+       id="path6796" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 41.728573,51.136214 V 81.932075 H 90.109524"
+       id="path6400" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 49.285993,82.064366 v 1.606399"
+       id="path6402-0" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 63.397099,82.064366 v 1.606399"
+       id="path6402-6" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 86.915608,82.064366 v 1.606399"
+       id="path6402-97" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="83.022781"
+       y="87.052589"
+       id="text6500"><tspan
+         sodipodi:role="line"
+         id="tspan6554"
+         x="83.022781"
+         y="87.052589">2100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="45.393173"
+       y="87.052589"
+       id="text6500-3"><tspan
+         sodipodi:role="line"
+         id="tspan6526"
+         x="45.393173"
+         y="87.052589">2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="59.504276"
+       y="87.052589"
+       id="text6500-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan6552"
+         x="59.504276"
+         y="87.052589">2050</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';fill:#676767;fill-opacity:0.741176;stroke-width:0.264583"
+       x="32.832603"
+       y="54.86208"
+       id="text6564"><tspan
+         sodipodi:role="line"
+         id="tspan6562"
+         x="32.832603"
+         y="54.86208"
+         style="fill:#676767;fill-opacity:0.741176;stroke-width:0.264583">tCO₂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';stroke-width:0.264583"
+       x="37.948811"
+       y="46.969273"
+       id="text6568"><tspan
+         sodipodi:role="line"
+         id="tspan6566"
+         x="37.948811"
+         y="46.969273"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Aufforstung und Wiederaufforstung</tspan></text>
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.41335,82.064366 v 1.606399"
+       id="path6402-0-7" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 129.52445,82.064366 v 1.606399"
+       id="path6402-6-3" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.04296,82.064366 v 1.606399"
+       id="path6402-97-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="149.15015"
+       y="87.052589"
+       id="text6500-5"><tspan
+         sodipodi:role="line"
+         id="tspan6554-2"
+         x="149.15015"
+         y="87.052589">2100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="111.52053"
+       y="87.052589"
+       id="text6500-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan6526-2"
+         x="111.52053"
+         y="87.052589">2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       x="125.63164"
+       y="87.052589"
+       id="text6500-3-8-0"><tspan
+         sodipodi:role="line"
+         id="tspan6552-7"
+         x="125.63164"
+         y="87.052589">2050</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';fill:#676767;fill-opacity:0.741176;stroke-width:0.264583"
+       x="98.959961"
+       y="54.86208"
+       id="text6564-4"><tspan
+         sodipodi:role="line"
+         id="tspan6562-7"
+         x="98.959961"
+         y="54.86208"
+         style="fill:#676767;fill-opacity:0.741176;stroke-width:0.264583">tCO₂</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Helvetica;-inkscape-font-specification:'Helvetica, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+       x="104.07617"
+       y="46.969273"
+       id="text6568-9"><tspan
+         sodipodi:role="line"
+         id="tspan6790"
+         x="104.07617"
+         y="46.969273">Biokohle</tspan></text>
+    <path
+       style="fill:#2c7fb8;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 115.41335,81.932075 V 59.067739 l 37.46996,3.073599 v 19.790737 z"
+       id="path6798"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.85593,51.136214 v 30.795861 h 48.38095"
+       id="path6400-4" />
+  </g>
+</svg>

@@ -2,23 +2,23 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="387.70483mm"
    height="318.01187mm"
    viewBox="0 0 1373.7573 1126.8136"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="discourses of delay.svg"
-   inkscape:export-filename="C:\Users\lamw\Documents\SpiderOak Hive\Work\Figures\Discourses of delay\discourses of delay.png"
+   inkscape:export-filename="C:\Users\lamw\ownCloud\Figures\Discourses of delay\discourses of delay.png"
    inkscape:export-xdpi="200.00436"
-   inkscape:export-ydpi="200.00436">
+   inkscape:export-ydpi="200.00436"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4">
     <inkscape:path-effect
@@ -1202,8 +1202,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="464.65557"
-     inkscape:cy="506.15641"
+     inkscape:cx="464.28571"
+     inkscape:cy="620"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1211,13 +1211,14 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="1780"
+     inkscape:window-height="1046"
+     inkscape:window-x="129"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
      showguides="false"
-     inkscape:guide-bbox="true" />
+     inkscape:guide-bbox="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -1226,7 +1227,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1261,7 +1261,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot11014"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3b3b3b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion11016"><rect
            id="rect11018"
            width="195.71428"
@@ -1269,10 +1269,12 @@
            x="404.28571"
            y="1410.9336"
            style="fill:#3b3b3b;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara11020" /></flowRoot>    <flowRoot
+         id="flowPara11020"
+         style="font-size:15px;line-height:1.25"> </flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4526"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.84624863px;line-height:125%;font-family:Serlio_NewNormal;-inkscape-font-specification:'Serlio_NewNormal, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:Serlio_NewNormal;-inkscape-font-specification:'Serlio_NewNormal, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(23.86316,24.241264)"><flowRegion
          id="flowRegion4528"><rect
            id="rect4530"
@@ -1280,21 +1282,23 @@
            height="1131.3708"
            x="2080.9143"
            y="269.34262" /></flowRegion><flowPara
-         id="flowPara4532" /></flowRoot>    <text
+         id="flowPara4532"
+         style="font-size:33.8462px;line-height:1.25"> </flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33.84624863px;line-height:125%;font-family:Serlio_NewNormal;-inkscape-font-specification:'Serlio_NewNormal, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Serlio_NewNormal;-inkscape-font-specification:'Serlio_NewNormal, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="2203.7725"
        y="523.89868"
-       id="text4969"
-       sodipodi:linespacing="125%"><tspan
+       id="text4969"><tspan
          sodipodi:role="line"
          id="tspan4971"
          x="2203.7725"
-         y="523.89868" /></text>
+         y="523.89868"
+         style="font-size:33.8462px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4136-9-34-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78715706px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#276250;fill-opacity:0.91372549;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#276250;fill-opacity:0.913725;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.84078983,0,0,0.84078983,3984.0176,455.04364)"><flowRegion
          id="flowRegion4138-5-5-5"><rect
            id="rect4140-1-82-3"
@@ -1303,12 +1307,14 @@
            x="168.69548"
            y="107.86958"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.78715706px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#276250;fill-opacity:0.91372549" /></flowRegion><flowPara
-         id="flowPara4765">Someone else should take actions first:</flowPara><flowPara
+         id="flowPara4765"
+         style="font-size:23.7872px;line-height:1.25">Someone else should take actions first:</flowPara><flowPara
          id="flowPara4767"
-         style="font-weight:bold">redirect responsibility</flowPara></flowRoot>    <flowRoot
+         style="font-weight:bold;font-size:23.7872px;line-height:1.25">redirect responsibility</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4136-5-9-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3943.7956,775.68754)"><flowRegion
          id="flowRegion4138-8-7-3"><rect
            id="rect4140-4-3-3"
@@ -1317,12 +1323,14 @@
            x="168.69548"
            y="107.86958"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3a5080;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5185">Change will be disruptive: <flowSpan
+         id="flowPara5185"
+         style="font-size:20px;line-height:1.25">Change will be disruptive: <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#3a5080;fill-opacity:1"
-   id="flowSpan5187">emphasize the downsides</flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan5187">emphasize the downsides</flowSpan></flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4136-9-3-2-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4211.1624,570.01714)"><flowRegion
          id="flowRegion4138-5-8-0-0"><rect
            id="rect4140-1-8-8-7"
@@ -1331,12 +1339,14 @@
            x="168.69548"
            y="107.86958"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#a83103;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4774">Disruptive change is not necessary: <flowSpan
+         id="flowPara4774"
+         style="font-size:20px;line-height:1.25">Disruptive change is not necessary: <flowSpan
    style="font-weight:bold"
-   id="flowSpan4776">push non-transformative solutions</flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan4776">push non-transformative solutions</flowSpan></flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4136-5-5-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3824.5562,570.31499)"><flowRegion
          id="flowRegion4138-8-79-1"><rect
            id="rect4140-4-9-3"
@@ -1345,13 +1355,16 @@
            x="168.69548"
            y="107.86958"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#931e66;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5223">It's not possible to mitigate</flowPara><flowPara
-         id="flowPara5225">climate change: </flowPara><flowPara
+         id="flowPara5223"
+         style="font-size:20px;line-height:1.25">It's not possible to mitigate</flowPara><flowPara
+         id="flowPara5225"
+         style="font-size:20px;line-height:1.25">climate change: </flowPara><flowPara
          id="flowPara5227"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#931e66;fill-opacity:1">surrender</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#931e66;fill-opacity:1">surrender</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-3-7"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4072.0215,296.6891)"><flowRegion
          id="flowRegion4755-6-6-2"><rect
            id="rect4757-3-9-0"
@@ -1360,22 +1373,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5051">We should focus our efforts on current and future technologies, which will unlock great possibilities for addressing climate change.</flowPara></flowRoot>    <text
+         id="flowPara5051"
+         style="font-size:17.5px;line-height:1.25">We should focus our efforts on current and future technologies, which will unlock great possibilities for addressing climate change.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4568.7861"
        y="531.82739"
-       id="text4763-7-96-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-96-6"><tspan
          sodipodi:role="line"
          id="tspan4765-0-6-4"
          x="4568.7861"
          y="531.82739"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1">Technological optimism</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1">Technological optimism</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-8-5-5"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4100.9762,415.51928)"><flowRegion
          id="flowRegion4755-6-3-44-8"><rect
            id="rect4757-3-0-3-3"
@@ -1384,19 +1398,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5756-1-7">We are world leaders in addressing climate change. We have approved an ambitious target and have declared a climate emergency.</flowPara></flowRoot>    <text
+         id="flowPara5756-1-7"
+         style="font-size:17.5px;line-height:1.25">We are world leaders in addressing climate change. We have approved an ambitious target and have declared a climate emergency.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4596.2983"
        y="649.82104"
-       id="text4763-7-9-32-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-9-32-6"><tspan
          sodipodi:role="line"
-         id="tspan4845">All words, little action</tspan></text>
+         id="tspan4845"
+         x="4596.2983"
+         y="649.82104"
+         style="font-size:17.5px;line-height:1.25">All words, little action</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-8-4-96-6"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4066.8285,658.5294)"><flowRegion
          id="flowRegion4755-6-3-4-1-7"><rect
            id="rect4757-3-0-8-5-1"
@@ -1405,19 +1423,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4598-7">Society will only respond to supportive and voluntary policies, restrictive measures will fail and should be abandoned.</flowPara></flowRoot>    <text
+         id="flowPara4598-7"
+         style="font-size:17.5px;line-height:1.25">Society will only respond to supportive and voluntary policies, restrictive measures will fail and should be abandoned.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4562.1504"
        y="893.66785"
-       id="text4763-7-9-3-5-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-9-3-5-6"><tspan
          sodipodi:role="line"
-         id="tspan4847">No sticks, just carrots</tspan></text>
+         id="tspan4847"
+         x="4562.1504"
+         y="893.66785"
+         style="font-size:17.5px;line-height:1.25">No sticks, just carrots</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-3-2-2"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(4100.9762,539.69915)"><flowRegion
          id="flowRegion4755-6-6-5-9"><rect
            id="rect4757-3-9-6-47"
@@ -1426,32 +1448,34 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5665-1">Fossil fuels are part of the solution. Our fuels are becoming more efficient and are the bridge towards a low-carbon future.</flowPara></flowRoot>    <text
+         id="flowPara5665-1"
+         style="font-size:17.5px;line-height:1.25">Fossil fuels are part of the solution. Our fuels are becoming more efficient and are the bridge towards a low-carbon future.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a83103;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4597.7402"
        y="774.83746"
-       id="text4763-7-96-8-8"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-96-8-8"><tspan
          sodipodi:role="line"
          id="tspan5663-2"
          x="4597.7402"
-         y="774.83746">Fossil fuel solutionism</tspan></text>
+         y="774.83746"
+         style="font-size:17.5px;line-height:1.25">Fossil fuel solutionism</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4101.7383"
        y="250.71814"
-       id="text4763-7-93-1-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-93-1-1"><tspan
          sodipodi:role="line"
          id="tspan5832-9-8"
          x="4101.7383"
-         y="250.71814">Individualism</tspan></text>
+         y="250.71814"
+         style="font-size:17.5px;line-height:1.25">Individualism</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-7-5-1"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3606.1602,17.763659)"><flowRegion
          id="flowRegion4755-6-7-9-1"><rect
            id="rect4757-3-8-5-1"
@@ -1460,21 +1484,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara5922-2-6">Individuals and consumers are ultimately responsible for taking actions to address climate change.</flowPara></flowRoot>    <text
+         id="flowPara5922-2-6"
+         style="font-size:17.5px;line-height:1.25">Individuals and consumers are ultimately responsible for taking actions to address climate change.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3970.6455"
        y="370.50589"
-       id="text4763-7-93-3-4-5-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-93-3-4-5-4"><tspan
          y="370.50589"
          x="3970.6455"
          sodipodi:role="line"
-         id="tspan5832-3-0-2-2">Whataboutism</tspan></text>
+         id="tspan5832-3-0-2-2"
+         style="font-size:17.5px;line-height:1.25">Whataboutism</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-7-8-7-9-6"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3474.5547,138.87572)"><flowRegion
          id="flowRegion4755-6-7-2-9-9-9"><rect
            id="rect4757-3-8-2-4-6-4"
@@ -1483,10 +1509,12 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara6263-4-6">Our carbon footprint is trivial compared to [...]. Therefore it makes no sense for us to take action, at least until [...] does so.</flowPara></flowRoot>    <flowRoot
+         id="flowPara6263-4-6"
+         style="font-size:17.5px;line-height:1.25">Our carbon footprint is trivial compared to [...]. Therefore it makes no sense for us to take action, at least until [...] does so.</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-8-4-9-8-4-4"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3812.9164,136.19589)"><flowRegion
          id="flowRegion4755-6-3-4-9-1-6-6"><rect
            id="rect4757-3-0-8-8-4-9-9"
@@ -1495,19 +1523,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara11709-6-0">Reducing emissions is going to weaken us. Others have no real intention of reducing theirs and will take advantage of that. </flowPara></flowRoot>    <text
+         id="flowPara11709-6-0"
+         style="font-size:17.5px;line-height:1.25">Reducing emissions is going to weaken us. Others have no real intention of reducing theirs and will take advantage of that. </flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#276250;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4309.0146"
        y="368.4856"
-       id="text4763-7-9-3-0-5-9-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-9-3-0-5-9-7"><tspan
          sodipodi:role="line"
-         id="tspan4843">The 'free rider' excuse</tspan></text>
+         id="tspan4843"
+         x="4309.0146"
+         y="368.4856"
+         style="font-size:17.5px;line-height:1.25">The 'free rider' excuse</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-0-8"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3134.7888,563.79251)"><flowRegion
          id="flowRegion4755-5-3"><rect
            id="rect4757-28-0"
@@ -1516,19 +1548,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr;text-anchor:start;fill:#931e66;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara5095">Any mitigation actions we take are too little, too late. Catastrophic climate change is already locked-in. We should adapt, or accept our fate in the hands of God or nature.</flowPara></flowRoot>    <text
+         id="flowPara5095"
+         style="font-size:17.5px;line-height:1.25">Any mitigation actions we take are too little, too late. Catastrophic climate change is already locked-in. We should adapt, or accept our fate in the hands of God or nature.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3628.8667"
        y="800.93079"
-       id="text4763-8-9"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-8-9"><tspan
          sodipodi:role="line"
-         id="tspan4808">Doomism</tspan></text>
+         id="tspan4808"
+         x="3628.8667"
+         y="800.93079"
+         style="font-size:17.5px;line-height:1.25">Doomism</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-8-0-0"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3134.7888,396.17033)"><flowRegion
          id="flowRegion4755-7-6-0"><rect
            id="rect4757-2-2-4"
@@ -1537,30 +1573,34 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr;text-anchor:start;fill:#931e66;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara5097">Any measure to reduce emissions effectively would run against current ways of life or human nature and is thus impossible to implement in a democratic society. </flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-       x="3629.5588"
-       y="631.30865"
-       id="text4763-0-0-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4849">Change is impossible</tspan></text>
+         id="flowPara5097"
+         style="font-size:17.5px;line-height:1.25">Any measure to reduce emissions effectively would run against current ways of life or human nature and is thus impossible to implement in a democratic society. </flowPara></flowRoot>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#931e66;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3629.5588"
+       y="631.30865"
+       id="text4763-0-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan4849"
+         x="3629.5588"
+         y="631.30865"
+         style="font-size:17.5px;line-height:1.25">Change is impossible</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4042.2134"
        y="1016.6611"
-       id="text4763-7-9-3-0-6-4"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-9-3-0-6-4"><tspan
          sodipodi:role="line"
          id="tspan4636-7"
          x="4042.2134"
-         y="1016.6611">Policy perfectionism</tspan></text>
+         y="1016.6611"
+         style="font-size:17.5px;line-height:1.25">Policy perfectionism</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-8-4-9-85-5"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3546.2544,783.01991)"><flowRegion
          id="flowRegion4755-6-3-4-9-0-0"><rect
            id="rect4757-3-0-8-8-43-7"
@@ -1569,10 +1609,12 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr;text-anchor:start;fill:#3a5080;fill-opacity:1;" /></flowRegion><flowPara
-         id="flowPara5105">We should seek only perfectly-crafted solutions that are supported by all affected parties; otherwise we will waste limited opportunities for adoption.</flowPara></flowRoot>    <flowRoot
+         id="flowPara5105"
+         style="font-size:17.5px;line-height:1.25">We should seek only perfectly-crafted solutions that are supported by all affected parties; otherwise we will waste limited opportunities for adoption.</flowPara></flowRoot>
+    <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-8-3-7-1"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3799.965,881.50112)"><flowRegion
          id="flowRegion4755-6-3-8-9-2"><rect
            id="rect4757-3-0-0-9-5"
@@ -1581,19 +1623,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4766">Climate actions will generate large costs. Vulnerable members of our society will be burdened; hard-working people cannot enjoy their holidays.</flowPara></flowRoot>    <text
+         id="flowPara4766"
+         style="font-size:17.5px;line-height:1.25">Climate actions will generate large costs. Vulnerable members of our society will be burdened; hard-working people cannot enjoy their holidays.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="4296.73"
        y="1116.6394"
-       id="text4763-7-9-9-2-7"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-9-9-2-7"><tspan
          sodipodi:role="line"
-         id="tspan5797">Social justice as pretext</tspan></text>
+         id="tspan5797"
+         x="4296.73"
+         y="1116.6394"
+         style="font-size:17.5px;line-height:1.25">Social justice as pretext</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4753-2-8-3-7-8-3"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3395.3168,881.50105)"><flowRegion
          id="flowRegion4755-6-3-8-9-4-47"><rect
            id="rect4757-3-0-0-9-0-8"
@@ -1602,21 +1648,23 @@
            x="496.42856"
            y="238.79077"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara4634-9">Fossil fuels are required for development. Abandoning them will condemn the global poor to hardship and their right to modern livelihoods.</flowPara></flowRoot>    <text
+         id="flowPara4634-9"
+         style="font-size:17.5px;line-height:1.25">Fossil fuels are required for development. Abandoning them will condemn the global poor to hardship and their right to modern livelihoods.</flowPara></flowRoot>
+    <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.50000191px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#3a5080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="3892.0815"
        y="1116.6394"
-       id="text4763-7-9-9-2-4-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text4763-7-9-9-2-4-1"><tspan
          sodipodi:role="line"
          id="tspan4638-8"
          x="3892.0815"
-         y="1116.6394">Appeal to well-being</tspan></text>
+         y="1116.6394"
+         style="font-size:17.5px;line-height:1.25">Appeal to well-being</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4565-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#323232;fill-opacity:0.90588235;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#323232;fill-opacity:0.905882;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(3443.5441,455.59685)"><flowRegion
          id="flowRegion4567-6"><rect
            id="rect4569-6"
@@ -1625,7 +1673,11 @@
            x="685.71429"
            y="242.8091"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#323232;fill-opacity:0.90588235" /></flowRegion><flowPara
-         id="flowPara4583-7">Discourses</flowPara><flowPara
-         id="flowPara4585-7">of </flowPara><flowPara
-         id="flowPara4587-7">climate delay</flowPara></flowRoot>  </g>
+         id="flowPara4583-7"
+         style="font-size:27.5px;line-height:1.25">Discourses</flowPara><flowPara
+         id="flowPara4585-7"
+         style="font-size:27.5px;line-height:1.25">of </flowPara><flowPara
+         id="flowPara4587-7"
+         style="font-size:27.5px;line-height:1.25">climate delay</flowPara></flowRoot>
+  </g>
 </svg>
